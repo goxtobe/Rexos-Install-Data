@@ -1,0 +1,21 @@
+# Aliases extracted from modules themselves.
+alias nfs-layouttype4-1 nfs_layout_nfsv41_files
+alias nfs-layouttype4-3 blocklayoutdriver
+alias block-major-2-* floppy
+alias acpi*:PNP0700:* floppy
+alias pnp:dPNP0700* floppy
+alias x86cpu:vendor:0000:family:*:model:*:feature:*00E7* x86_pkg_temp_thermal
+alias ip_nat_ftp nf_nat_ftp
+alias ip_nat_irc nf_nat_irc
+alias ip_nat_sip nf_nat_sip
+alias ip6t_MARK xt_mark
+alias ipt_MARK xt_mark
+alias ip6t_mark xt_mark
+alias ipt_mark xt_mark
+alias ip6t_DNAT xt_nat
+alias ip6t_SNAT xt_nat
+alias ipt_DNAT xt_nat
+alias ipt_SNAT xt_nat
+alias ip6t_LOG xt_LOG
+alias ipt_LOG xt_LOG
+alias nf-nat-2 nf_nat_ipv4
