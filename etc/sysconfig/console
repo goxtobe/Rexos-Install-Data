@@ -1,0 +1,7 @@
+# Begin /etc/sysconfig/console
+
+UNICODE="1"
+KEYMAP="es"
+FONT="lat2a-16 -m 8859-2"
+
+# End /etc/sysconfig/console

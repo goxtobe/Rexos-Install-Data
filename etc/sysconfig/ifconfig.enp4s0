@@ -1,0 +1,7 @@
+ONBOOT="no"
+IFACE="enp4s0"
+SERVICE="dhclient"
+DHCP_START=""
+DHCP_STOP=""
+PRINTIP="no"
+PRINTALL="no"
