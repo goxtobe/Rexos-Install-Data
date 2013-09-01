@@ -1,0 +1,9 @@
+ License:
+
+   This software is released under GNU GENERAL PUBLIC LICENSE.
+
+ Warranty:
+
+   This software is distributed with NO WARRANTY, use it at your own risk.
+
+

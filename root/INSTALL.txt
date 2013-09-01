@@ -1,0 +1,117 @@
+Real Experience Operating System Alpha
+======================================
+
+Gracias por usar Rex OS. Rex OS es una distribución de GNU / Linux
+construida desde cero para virtualización completa.
+Actualmente el proyecto esta empezando, por lo que los fines de este
+lanzamiento son para divulgar el proyecto. 
+Trabajare para resolver los errores que la actual liberación presenta.
+
+Rex OS es distribuido sin ninguna garantia de su funcionamiento.
+
+Cualquier duda o aclaracion, favor de contactarme.
+goxtobe@gmail.com
+http://rex-os.blogspot.mx/
+
+
+USAR REXOS EN MODO LIVE
+=====================================
+Si usted desea probar Rex OS en su sistema sin realizar ningun cambio.
+puede hacer uso del modo live.
+Para obtener Rex OS visitenos en http://rex-os.blogspot.mx/ y descargue 
+Rex OS.
+
+Para  crear una USB de  arranque con  Rex OS, puede seguir la siguiente 
+guía.
+
+
+	1.- Extraer el contenido del archivo ZIP en la USB.
+
+	2.- Navegue hasta el contenido extraido en /MI/USB/boot
+
+	3.- Si se encuentra en GNU / Linux corra bootinst.sh
+	
+	    Si se encuentra en Windows corra bootinst.bat
+
+Listo!, ahora esta listo para probar Rex OS desde una USB de arranque.
+
+En el modo live y en la instalación el unico usuario es root y su 
+clave de acceso es "rexos"
+
+INSTALAR REXOS
+=====================================
+
+Si usted a probado satisfactoriamente Rex OS desde el  modo live  y 
+desea realizar pruebas de instalación y uso, pongo a su disposición
+la siguiente guía de instalación.
+
+Actualmente no hay un medio de instalación para Rex OS, por lo cual
+la presente guia hace uso de FSArchiver para restablecer el sistema
+en una partición dada.
+
+Para instalar Rex OS usted necesita de Rex OS Live corriendo en su 
+sistema.
+
+	1.- CREAR PARTICONES
+	    Debido a la ausencia de un instalador usted hara todo el
+	    trabajo sucio.
+	    Primero usted necesitara crear las particiones para 
+	    instalar Rex OS en su sistema. Recomiendo hacer uso de
+	    
+		# cfdisk
+	
+	    Necesitara hacer uso de dos particiones, la partición /
+	    en donde se restablecera el sistema y la partición de
+	    intercambio de memoria(swap).
+		NOTA: Para fines de la presente guía asumiré que 
+		usted creó primero la partición swap y después /.
+	
+	2.- FORMATEAR PARTICIONES
+	    Puede usar el mkfs y por medio de -t elegir el tipo de
+	    formato, recomiendo ext4 para la partición /
+
+		# mkfs -t ext4 /dev/sda2
+	
+	    Para formatear la particion de intercambio use mkswap.
+
+		# mkswap /dev/sda1
+
+	3.- RESTABLECER LA PARTICION /
+	    Para restablecer la partición haga uso de FSArchiver
+	
+		# fsarchiver restfs /install/RexosSystem.fsa /dev/sda2
+
+	4.- MONTAR LA PARTICION
+	    Después de restablecer monte la partición / en /mnt
+
+		# mount -v -t ext4 /dev/sda2 /mnt
+
+	5.- CONFIGURAR GRUB
+	    Rex OS hace uso de GRUB2 por lo que tendra que configurarlo
+	    antes de poder realizar el primer arranque.
+
+		# grub-install --root-directory=/mnt /dev/sda
+
+	    
+	     A continuación navegue hasta el directorio /boot/grub 
+	     en la partición /
+	
+		# cd /mnt/boot/grub
+
+	     Edite el archivo grub.cfg de acuerdo a sus necesidades.
+
+		# vim grub.cfg
+
+	6.- EDITAR FSTAB
+	    Es importante editar el archivo fstab para especificar el 
+	    formato que ha elegido para sus particiones.
+	
+		# vim /etc/fstab
+
+	    Modifique el archivo de acuerdo a sus elecciones anteriores.
+
+	7-. REINICIAR
+	    Reinicie el sistema y pruebe Rex OS. Recuerde, el unico
+	    usuario registrado es root y clave de acceso es "rexos".
+
+	     
