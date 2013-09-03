@@ -1,0 +1,1268 @@
+Jul 16 23:03:14 Rexos init: Switching to runlevel: 0
+Jul 18 11:49:39 Rexos init: Switching to runlevel: 0
+Jul 18 22:38:48 Rexos init: Switching to runlevel: 0
+Jul 18 23:55:49 Rexos init: Switching to runlevel: 0
+Jul 20 19:45:09 Rexos init: Switching to runlevel: 0
+Jul 21 16:12:14 Rexos init: Switching to runlevel: 0
+Jul 21 18:08:55 Rexos init: Switching to runlevel: 6
+Jul 21 18:13:35 Rexos init: Switching to runlevel: 0
+Jul 21 22:16:49 Rexos init: Switching to runlevel: 0
+Jul 21 22:44:42 Rexos init: Switching to runlevel: 6
+Jul 21 22:50:00 Rexos init: Switching to runlevel: 6
+Jul 21 23:50:17 Rexos init: Switching to runlevel: 6
+Jul 21 23:50:52 Rexos dhclient: Unsupported device type 772 for "lo"
+Jul 21 23:50:52 Rexos dhclient: 
+Jul 21 23:50:52 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 21 23:50:52 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 21 23:50:52 Rexos dhclient: requesting help.
+Jul 21 23:50:52 Rexos dhclient: 
+Jul 21 23:50:52 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 21 23:50:52 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 21 23:50:52 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 21 23:50:52 Rexos dhclient: mailing list, please read the section on the README about
+Jul 21 23:50:52 Rexos dhclient: submitting bug reports and requests for help.
+Jul 21 23:50:52 Rexos dhclient: 
+Jul 21 23:50:52 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 21 23:50:52 Rexos dhclient: help directly to the authors of this software - please
+Jul 21 23:50:52 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 21 23:50:52 Rexos dhclient: the README file.
+Jul 21 23:50:52 Rexos dhclient: 
+Jul 21 23:50:52 Rexos dhclient: exiting.
+Jul 22 00:04:51 Rexos init: Switching to runlevel: 0
+Jul 22 00:14:57 Rexos dhclient: Unsupported device type 772 for "lo"
+Jul 22 00:14:57 Rexos dhclient: 
+Jul 22 00:14:57 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 00:14:57 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 00:14:57 Rexos dhclient: requesting help.
+Jul 22 00:14:57 Rexos dhclient: 
+Jul 22 00:14:57 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 00:14:57 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 00:14:57 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 00:14:57 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 00:14:57 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 00:14:57 Rexos dhclient: 
+Jul 22 00:14:57 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 00:14:57 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 00:14:57 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 00:14:57 Rexos dhclient: the README file.
+Jul 22 00:14:57 Rexos dhclient: 
+Jul 22 00:14:57 Rexos dhclient: exiting.
+Jul 22 00:19:33 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 00:19:33 Rexos dhclient: 
+Jul 22 00:19:33 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 00:19:33 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 00:19:33 Rexos dhclient: requesting help.
+Jul 22 00:19:33 Rexos dhclient: 
+Jul 22 00:19:33 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 00:19:33 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 00:19:33 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 00:19:33 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 00:19:33 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 00:19:33 Rexos dhclient: 
+Jul 22 00:19:33 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 00:19:33 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 00:19:33 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 00:19:33 Rexos dhclient: the README file.
+Jul 22 00:19:33 Rexos dhclient: 
+Jul 22 00:19:33 Rexos dhclient: exiting.
+Jul 22 00:19:53 Rexos init: Switching to runlevel: 6
+Jul 22 00:20:26 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 00:20:26 Rexos dhclient: 
+Jul 22 00:20:26 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 00:20:26 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 00:20:26 Rexos dhclient: requesting help.
+Jul 22 00:20:26 Rexos dhclient: 
+Jul 22 00:20:26 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 00:20:26 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 00:20:26 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 00:20:26 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 00:20:26 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 00:20:26 Rexos dhclient: 
+Jul 22 00:20:26 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 00:20:26 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 00:20:26 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 00:20:26 Rexos dhclient: the README file.
+Jul 22 00:20:26 Rexos dhclient: 
+Jul 22 00:20:26 Rexos dhclient: exiting.
+Jul 22 00:25:27 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 00:25:27 Rexos dhclient: 
+Jul 22 00:25:27 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 00:25:27 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 00:25:27 Rexos dhclient: requesting help.
+Jul 22 00:25:27 Rexos dhclient: 
+Jul 22 00:25:27 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 00:25:27 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 00:25:27 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 00:25:27 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 00:25:27 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 00:25:27 Rexos dhclient: 
+Jul 22 00:25:27 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 00:25:27 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 00:25:27 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 00:25:27 Rexos dhclient: the README file.
+Jul 22 00:25:27 Rexos dhclient: 
+Jul 22 00:25:27 Rexos dhclient: exiting.
+Jul 22 00:25:38 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 00:25:38 Rexos dhclient: 
+Jul 22 00:25:38 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 00:25:38 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 00:25:38 Rexos dhclient: requesting help.
+Jul 22 00:25:38 Rexos dhclient: 
+Jul 22 00:25:38 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 00:25:38 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 00:25:38 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 00:25:38 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 00:25:38 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 00:25:38 Rexos dhclient: 
+Jul 22 00:25:38 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 00:25:38 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 00:25:38 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 00:25:38 Rexos dhclient: the README file.
+Jul 22 00:25:38 Rexos dhclient: 
+Jul 22 00:25:38 Rexos dhclient: exiting.
+Jul 22 00:34:44 Rexos init: Switching to runlevel: 6
+Jul 22 12:28:48 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:28:48 Rexos dhclient: 
+Jul 22 12:28:48 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:28:48 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:28:48 Rexos dhclient: requesting help.
+Jul 22 12:28:48 Rexos dhclient: 
+Jul 22 12:28:48 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:28:48 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:28:48 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:28:48 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:28:48 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:28:48 Rexos dhclient: 
+Jul 22 12:28:48 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:28:48 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:28:48 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:28:48 Rexos dhclient: the README file.
+Jul 22 12:28:48 Rexos dhclient: 
+Jul 22 12:28:48 Rexos dhclient: exiting.
+Jul 22 12:45:11 Rexos init: Switching to runlevel: 6
+Jul 22 12:45:46 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:45:46 Rexos dhclient: 
+Jul 22 12:45:46 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:45:46 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:45:46 Rexos dhclient: requesting help.
+Jul 22 12:45:46 Rexos dhclient: 
+Jul 22 12:45:46 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:45:46 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:45:46 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:45:46 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:45:46 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:45:46 Rexos dhclient: 
+Jul 22 12:45:46 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:45:46 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:45:46 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:45:46 Rexos dhclient: the README file.
+Jul 22 12:45:46 Rexos dhclient: 
+Jul 22 12:45:46 Rexos dhclient: exiting.
+Jul 22 12:49:11 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:49:11 Rexos dhclient: 
+Jul 22 12:49:11 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:49:11 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:49:11 Rexos dhclient: requesting help.
+Jul 22 12:49:11 Rexos dhclient: 
+Jul 22 12:49:11 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:49:11 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:49:11 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:49:11 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:49:11 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:49:11 Rexos dhclient: 
+Jul 22 12:49:11 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:49:11 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:49:11 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:49:11 Rexos dhclient: the README file.
+Jul 22 12:49:11 Rexos dhclient: 
+Jul 22 12:49:11 Rexos dhclient: exiting.
+Jul 22 12:49:14 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 12:49:14 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 12:49:14 Rexos dhclient: All rights reserved.
+Jul 22 12:49:14 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 12:49:14 Rexos dhclient: 
+Jul 22 12:49:14 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:49:14 Rexos dhclient: 
+Jul 22 12:49:14 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:49:14 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:49:14 Rexos dhclient: requesting help.
+Jul 22 12:49:14 Rexos dhclient: 
+Jul 22 12:49:14 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:49:14 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:49:14 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:49:14 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:49:14 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:49:14 Rexos dhclient: 
+Jul 22 12:49:14 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:49:14 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:49:14 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:49:14 Rexos dhclient: the README file.
+Jul 22 12:49:14 Rexos dhclient: 
+Jul 22 12:49:14 Rexos dhclient: exiting.
+Jul 22 12:50:02 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 12:50:02 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 12:50:02 Rexos dhclient: All rights reserved.
+Jul 22 12:50:02 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 12:50:02 Rexos dhclient: 
+Jul 22 12:50:02 Rexos dhclient: Unsupported device type 772 for "lo"
+Jul 22 12:50:02 Rexos dhclient: 
+Jul 22 12:50:02 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:50:02 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:50:02 Rexos dhclient: requesting help.
+Jul 22 12:50:02 Rexos dhclient: 
+Jul 22 12:50:02 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:50:02 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:50:02 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:50:02 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:50:02 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:50:02 Rexos dhclient: 
+Jul 22 12:50:02 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:50:02 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:50:02 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:50:02 Rexos dhclient: the README file.
+Jul 22 12:50:02 Rexos dhclient: 
+Jul 22 12:50:02 Rexos dhclient: exiting.
+Jul 22 12:50:07 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 12:50:07 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 12:50:07 Rexos dhclient: All rights reserved.
+Jul 22 12:50:07 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 12:50:07 Rexos dhclient: 
+Jul 22 12:50:07 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:50:07 Rexos dhclient: 
+Jul 22 12:50:07 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:50:07 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:50:07 Rexos dhclient: requesting help.
+Jul 22 12:50:07 Rexos dhclient: 
+Jul 22 12:50:07 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:50:07 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:50:07 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:50:07 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:50:07 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:50:07 Rexos dhclient: 
+Jul 22 12:50:07 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:50:07 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:50:07 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:50:07 Rexos dhclient: the README file.
+Jul 22 12:50:07 Rexos dhclient: 
+Jul 22 12:50:07 Rexos dhclient: exiting.
+Jul 22 12:55:19 Rexos init: Switching to runlevel: 6
+Jul 22 12:55:51 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:55:51 Rexos dhclient: 
+Jul 22 12:55:51 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:55:51 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:55:51 Rexos dhclient: requesting help.
+Jul 22 12:55:51 Rexos dhclient: 
+Jul 22 12:55:51 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:55:51 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:55:51 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:55:51 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:55:51 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:55:51 Rexos dhclient: 
+Jul 22 12:55:51 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:55:51 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:55:51 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:55:51 Rexos dhclient: the README file.
+Jul 22 12:55:51 Rexos dhclient: 
+Jul 22 12:55:51 Rexos dhclient: exiting.
+Jul 22 12:57:06 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:57:06 Rexos dhclient: 
+Jul 22 12:57:06 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:57:06 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:57:06 Rexos dhclient: requesting help.
+Jul 22 12:57:06 Rexos dhclient: 
+Jul 22 12:57:06 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:57:06 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:57:06 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:57:06 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:57:06 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:57:06 Rexos dhclient: 
+Jul 22 12:57:06 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:57:06 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:57:06 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:57:06 Rexos dhclient: the README file.
+Jul 22 12:57:06 Rexos dhclient: 
+Jul 22 12:57:06 Rexos dhclient: exiting.
+Jul 22 12:57:09 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 12:57:09 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 12:57:09 Rexos dhclient: All rights reserved.
+Jul 22 12:57:09 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 12:57:09 Rexos dhclient: Usage: dhclient [-4|-6] [-SNTP1dvrx] [-nw] [-p <port>] [-D LL|LLT]                 [-s server-addr] [-cf config-file] [-lf lease-file]                 [-pf pid-file] [--no-pid] [-e VAR=val]                 [-sf script-file] [interface]
+Jul 22 12:57:09 Rexos dhclient: 
+Jul 22 12:57:09 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:57:09 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:57:09 Rexos dhclient: requesting help.
+Jul 22 12:57:09 Rexos dhclient: 
+Jul 22 12:57:09 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:57:09 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:57:09 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:57:09 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:57:09 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:57:09 Rexos dhclient: 
+Jul 22 12:57:09 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:57:09 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:57:09 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:57:09 Rexos dhclient: the README file.
+Jul 22 12:57:09 Rexos dhclient: 
+Jul 22 12:57:09 Rexos dhclient: exiting.
+Jul 22 12:57:17 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 12:57:17 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 12:57:17 Rexos dhclient: All rights reserved.
+Jul 22 12:57:17 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 12:57:17 Rexos dhclient: 
+Jul 22 12:57:17 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 12:57:17 Rexos dhclient: 
+Jul 22 12:57:17 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 12:57:17 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 12:57:17 Rexos dhclient: requesting help.
+Jul 22 12:57:17 Rexos dhclient: 
+Jul 22 12:57:17 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 12:57:17 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 12:57:17 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 12:57:17 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 12:57:17 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 12:57:17 Rexos dhclient: 
+Jul 22 12:57:17 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 12:57:17 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 12:57:17 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 12:57:17 Rexos dhclient: the README file.
+Jul 22 12:57:17 Rexos dhclient: 
+Jul 22 12:57:17 Rexos dhclient: exiting.
+Jul 22 13:02:11 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:11 Rexos dhclient: 
+Jul 22 13:02:11 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:11 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:11 Rexos dhclient: requesting help.
+Jul 22 13:02:11 Rexos dhclient: 
+Jul 22 13:02:11 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:11 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:11 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:11 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:11 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:11 Rexos dhclient: 
+Jul 22 13:02:11 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:11 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:11 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:11 Rexos dhclient: the README file.
+Jul 22 13:02:11 Rexos dhclient: 
+Jul 22 13:02:11 Rexos dhclient: exiting.
+Jul 22 13:02:36 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:36 Rexos dhclient: 
+Jul 22 13:02:36 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:36 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:36 Rexos dhclient: requesting help.
+Jul 22 13:02:36 Rexos dhclient: 
+Jul 22 13:02:36 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:36 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:36 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:36 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:36 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:36 Rexos dhclient: 
+Jul 22 13:02:36 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:36 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:36 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:36 Rexos dhclient: the README file.
+Jul 22 13:02:36 Rexos dhclient: 
+Jul 22 13:02:36 Rexos dhclient: exiting.
+Jul 22 13:02:37 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:37 Rexos dhclient: 
+Jul 22 13:02:37 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:37 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:37 Rexos dhclient: requesting help.
+Jul 22 13:02:37 Rexos dhclient: 
+Jul 22 13:02:37 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:37 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:37 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:37 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:37 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:37 Rexos dhclient: 
+Jul 22 13:02:37 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:37 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:37 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:37 Rexos dhclient: the README file.
+Jul 22 13:02:37 Rexos dhclient: 
+Jul 22 13:02:37 Rexos dhclient: exiting.
+Jul 22 13:02:38 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:38 Rexos dhclient: 
+Jul 22 13:02:38 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:38 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:38 Rexos dhclient: requesting help.
+Jul 22 13:02:38 Rexos dhclient: 
+Jul 22 13:02:38 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:38 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:38 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:38 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:38 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:38 Rexos dhclient: 
+Jul 22 13:02:38 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:38 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:38 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:38 Rexos dhclient: the README file.
+Jul 22 13:02:38 Rexos dhclient: 
+Jul 22 13:02:38 Rexos dhclient: exiting.
+Jul 22 13:02:39 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:39 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:39 Rexos dhclient: requesting help.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:39 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:39 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:39 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:39 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:39 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:39 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:39 Rexos dhclient: the README file.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: exiting.
+Jul 22 13:02:39 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:39 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:39 Rexos dhclient: requesting help.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:39 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:39 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:39 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:39 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:39 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:39 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:39 Rexos dhclient: the README file.
+Jul 22 13:02:39 Rexos dhclient: 
+Jul 22 13:02:39 Rexos dhclient: exiting.
+Jul 22 13:02:40 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:40 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:40 Rexos dhclient: requesting help.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:40 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:40 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:40 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:40 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:40 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:40 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:40 Rexos dhclient: the README file.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: exiting.
+Jul 22 13:02:40 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:02:40 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:02:40 Rexos dhclient: requesting help.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:02:40 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:02:40 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:02:40 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:02:40 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:02:40 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:02:40 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:02:40 Rexos dhclient: the README file.
+Jul 22 13:02:40 Rexos dhclient: 
+Jul 22 13:02:40 Rexos dhclient: exiting.
+Jul 22 13:07:12 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:07:12 Rexos dhclient: 
+Jul 22 13:07:12 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:07:12 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:07:12 Rexos dhclient: requesting help.
+Jul 22 13:07:12 Rexos dhclient: 
+Jul 22 13:07:12 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:07:12 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:07:12 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:07:12 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:07:12 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:07:12 Rexos dhclient: 
+Jul 22 13:07:12 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:07:12 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:07:12 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:07:12 Rexos dhclient: the README file.
+Jul 22 13:07:12 Rexos dhclient: 
+Jul 22 13:07:12 Rexos dhclient: exiting.
+Jul 22 13:12:58 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:12:58 Rexos dhclient: 
+Jul 22 13:12:58 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:12:58 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:12:58 Rexos dhclient: requesting help.
+Jul 22 13:12:58 Rexos dhclient: 
+Jul 22 13:12:58 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:12:58 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:12:58 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:12:58 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:12:58 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:12:58 Rexos dhclient: 
+Jul 22 13:12:58 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:12:58 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:12:58 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:12:58 Rexos dhclient: the README file.
+Jul 22 13:12:58 Rexos dhclient: 
+Jul 22 13:12:58 Rexos dhclient: exiting.
+Jul 22 13:13:01 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 13:13:01 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 13:13:01 Rexos dhclient: All rights reserved.
+Jul 22 13:13:01 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 13:13:01 Rexos dhclient: 
+Jul 22 13:13:01 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:13:01 Rexos dhclient: 
+Jul 22 13:13:01 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:13:01 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:13:01 Rexos dhclient: requesting help.
+Jul 22 13:13:01 Rexos dhclient: 
+Jul 22 13:13:01 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:13:01 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:13:01 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:13:01 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:13:01 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:13:01 Rexos dhclient: 
+Jul 22 13:13:01 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:13:01 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:13:01 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:13:01 Rexos dhclient: the README file.
+Jul 22 13:13:01 Rexos dhclient: 
+Jul 22 13:13:01 Rexos dhclient: exiting.
+Jul 22 13:33:36 Rexos init: Switching to runlevel: 6
+Jul 22 13:37:24 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:37:24 Rexos dhclient: 
+Jul 22 13:37:24 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:37:24 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:37:24 Rexos dhclient: requesting help.
+Jul 22 13:37:24 Rexos dhclient: 
+Jul 22 13:37:24 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:37:24 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:37:24 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:37:24 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:37:24 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:37:24 Rexos dhclient: 
+Jul 22 13:37:24 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:37:24 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:37:24 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:37:24 Rexos dhclient: the README file.
+Jul 22 13:37:24 Rexos dhclient: 
+Jul 22 13:37:24 Rexos dhclient: exiting.
+Jul 22 13:37:27 Rexos dhclient: Internet Systems Consortium DHCP Client 4.2.5-P1
+Jul 22 13:37:27 Rexos dhclient: Copyright 2004-2013 Internet Systems Consortium.
+Jul 22 13:37:27 Rexos dhclient: All rights reserved.
+Jul 22 13:37:27 Rexos dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Jul 22 13:37:27 Rexos dhclient: 
+Jul 22 13:37:27 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 13:37:27 Rexos dhclient: 
+Jul 22 13:37:27 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 13:37:27 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 13:37:27 Rexos dhclient: requesting help.
+Jul 22 13:37:27 Rexos dhclient: 
+Jul 22 13:37:27 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 13:37:27 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 13:37:27 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 13:37:27 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 13:37:27 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 13:37:27 Rexos dhclient: 
+Jul 22 13:37:27 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 13:37:27 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 13:37:27 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 13:37:27 Rexos dhclient: the README file.
+Jul 22 13:37:27 Rexos dhclient: 
+Jul 22 13:37:27 Rexos dhclient: exiting.
+Jul 22 13:42:20 Rexos init: Switching to runlevel: 6
+Jul 22 14:16:32 Rexos init: Switching to runlevel: 6
+Jul 22 16:01:54 Rexos init: Switching to runlevel: 6
+Jul 22 19:37:55 Rexos init: Switching to runlevel: 6
+Jul 22 19:38:28 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 19:38:28 Rexos dhclient: 
+Jul 22 19:38:28 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 19:38:28 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 19:38:28 Rexos dhclient: requesting help.
+Jul 22 19:38:28 Rexos dhclient: 
+Jul 22 19:38:28 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 19:38:28 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 19:38:28 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 19:38:28 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 19:38:28 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 19:38:28 Rexos dhclient: 
+Jul 22 19:38:28 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 19:38:28 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 19:38:28 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 19:38:28 Rexos dhclient: the README file.
+Jul 22 19:38:28 Rexos dhclient: 
+Jul 22 19:38:28 Rexos dhclient: exiting.
+Jul 22 19:41:49 Rexos init: Switching to runlevel: 6
+Jul 22 20:42:21 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 20:42:21 Rexos dhclient: 
+Jul 22 20:42:21 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 20:42:21 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 20:42:21 Rexos dhclient: requesting help.
+Jul 22 20:42:21 Rexos dhclient: 
+Jul 22 20:42:21 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 20:42:21 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 20:42:21 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 20:42:21 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 20:42:21 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 20:42:21 Rexos dhclient: 
+Jul 22 20:42:21 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 20:42:21 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 20:42:21 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 20:42:21 Rexos dhclient: the README file.
+Jul 22 20:42:21 Rexos dhclient: 
+Jul 22 20:42:21 Rexos dhclient: exiting.
+Jul 22 20:48:15 Rexos init: Switching to runlevel: 0
+Jul 22 20:55:47 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 20:55:47 Rexos dhclient: 
+Jul 22 20:55:47 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 20:55:47 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 20:55:47 Rexos dhclient: requesting help.
+Jul 22 20:55:47 Rexos dhclient: 
+Jul 22 20:55:47 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 20:55:47 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 20:55:47 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 20:55:47 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 20:55:47 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 20:55:47 Rexos dhclient: 
+Jul 22 20:55:47 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 20:55:47 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 20:55:47 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 20:55:47 Rexos dhclient: the README file.
+Jul 22 20:55:47 Rexos dhclient: 
+Jul 22 20:55:47 Rexos dhclient: exiting.
+Jul 22 20:58:32 Rexos init: Switching to runlevel: 6
+Jul 22 21:23:57 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 21:23:57 Rexos dhclient: 
+Jul 22 21:23:57 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 21:23:57 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 21:23:57 Rexos dhclient: requesting help.
+Jul 22 21:23:57 Rexos dhclient: 
+Jul 22 21:23:57 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 21:23:57 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 21:23:57 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 21:23:57 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 21:23:57 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 21:23:57 Rexos dhclient: 
+Jul 22 21:23:57 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 21:23:57 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 21:23:57 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 21:23:57 Rexos dhclient: the README file.
+Jul 22 21:23:57 Rexos dhclient: 
+Jul 22 21:23:57 Rexos dhclient: exiting.
+Jul 22 21:27:42 Rexos init: Switching to runlevel: 6
+Jul 22 21:28:15 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 22 21:28:15 Rexos dhclient: 
+Jul 22 21:28:15 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 22 21:28:15 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 22 21:28:15 Rexos dhclient: requesting help.
+Jul 22 21:28:15 Rexos dhclient: 
+Jul 22 21:28:15 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 22 21:28:15 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 22 21:28:15 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 22 21:28:15 Rexos dhclient: mailing list, please read the section on the README about
+Jul 22 21:28:15 Rexos dhclient: submitting bug reports and requests for help.
+Jul 22 21:28:15 Rexos dhclient: 
+Jul 22 21:28:15 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 22 21:28:15 Rexos dhclient: help directly to the authors of this software - please
+Jul 22 21:28:15 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 22 21:28:15 Rexos dhclient: the README file.
+Jul 22 21:28:15 Rexos dhclient: 
+Jul 22 21:28:15 Rexos dhclient: exiting.
+Jul 22 22:57:40 Rexos init: Switching to runlevel: 6
+Jul 23 06:41:43 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 23 06:41:43 Rexos dhclient: 
+Jul 23 06:41:43 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 23 06:41:43 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 23 06:41:43 Rexos dhclient: requesting help.
+Jul 23 06:41:43 Rexos dhclient: 
+Jul 23 06:41:43 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 23 06:41:43 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 23 06:41:43 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 23 06:41:43 Rexos dhclient: mailing list, please read the section on the README about
+Jul 23 06:41:43 Rexos dhclient: submitting bug reports and requests for help.
+Jul 23 06:41:43 Rexos dhclient: 
+Jul 23 06:41:43 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 23 06:41:43 Rexos dhclient: help directly to the authors of this software - please
+Jul 23 06:41:43 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 23 06:41:43 Rexos dhclient: the README file.
+Jul 23 06:41:43 Rexos dhclient: 
+Jul 23 06:41:43 Rexos dhclient: exiting.
+Jul 23 06:42:21 Rexos init: Switching to runlevel: 0
+Jul 23 08:10:13 Rexos dhclient: Unsupported device type 776 for "sit0"
+Jul 23 08:10:13 Rexos dhclient: 
+Jul 23 08:10:13 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Jul 23 08:10:13 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Jul 23 08:10:13 Rexos dhclient: requesting help.
+Jul 23 08:10:13 Rexos dhclient: 
+Jul 23 08:10:13 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Jul 23 08:10:13 Rexos dhclient: yet read the README, please read it before requesting help.
+Jul 23 08:10:13 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Jul 23 08:10:13 Rexos dhclient: mailing list, please read the section on the README about
+Jul 23 08:10:13 Rexos dhclient: submitting bug reports and requests for help.
+Jul 23 08:10:13 Rexos dhclient: 
+Jul 23 08:10:13 Rexos dhclient: Please do not under any circumstances send requests for
+Jul 23 08:10:13 Rexos dhclient: help directly to the authors of this software - please
+Jul 23 08:10:13 Rexos dhclient: send them to the appropriate mailing list as described in
+Jul 23 08:10:13 Rexos dhclient: the README file.
+Jul 23 08:10:13 Rexos dhclient: 
+Jul 23 08:10:13 Rexos dhclient: exiting.
+Jul 23 08:33:52 Rexos init: Switching to runlevel: 6
+Jul 23 08:34:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Jul 23 08:34:27 Rexos dhclient: DHCPREQUEST on enp4s0 to 255.255.255.255 port 67
+Jul 23 08:34:27 Rexos dhclient: DHCPOFFER from 192.168.1.254
+Jul 23 08:34:27 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:34:27 Rexos dhclient: bound to 192.168.1.67 -- renewal in 46 seconds.
+Jul 23 08:35:13 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:35:13 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:35:13 Rexos dhclient: bound to 192.168.1.67 -- renewal in 47 seconds.
+Jul 23 08:36:00 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:36:00 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:36:00 Rexos dhclient: bound to 192.168.1.67 -- renewal in 47 seconds.
+Jul 23 08:36:47 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:36:47 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:36:47 Rexos dhclient: bound to 192.168.1.67 -- renewal in 48 seconds.
+Jul 23 08:37:35 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:37:35 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:37:35 Rexos dhclient: bound to 192.168.1.67 -- renewal in 54 seconds.
+Jul 23 08:38:29 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:38:29 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:38:29 Rexos dhclient: bound to 192.168.1.67 -- renewal in 47 seconds.
+Jul 23 08:39:16 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:39:16 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:39:16 Rexos dhclient: bound to 192.168.1.67 -- renewal in 55 seconds.
+Jul 23 08:40:11 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:40:11 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:40:11 Rexos dhclient: bound to 192.168.1.67 -- renewal in 50 seconds.
+Jul 23 08:41:01 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:41:01 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:41:01 Rexos dhclient: bound to 192.168.1.67 -- renewal in 53 seconds.
+Jul 23 08:41:54 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:41:54 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:41:54 Rexos dhclient: bound to 192.168.1.67 -- renewal in 48 seconds.
+Jul 23 08:42:42 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:42:42 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:42:42 Rexos dhclient: bound to 192.168.1.67 -- renewal in 54 seconds.
+Jul 23 08:43:36 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:43:36 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:43:36 Rexos dhclient: bound to 192.168.1.67 -- renewal in 56 seconds.
+Jul 23 08:44:32 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:44:32 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:44:32 Rexos dhclient: bound to 192.168.1.67 -- renewal in 56 seconds.
+Jul 23 08:45:28 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:45:28 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:45:28 Rexos dhclient: bound to 192.168.1.67 -- renewal in 55 seconds.
+Jul 23 08:46:23 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:46:23 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:46:23 Rexos dhclient: bound to 192.168.1.67 -- renewal in 49 seconds.
+Jul 23 08:47:12 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:47:12 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:47:12 Rexos dhclient: bound to 192.168.1.67 -- renewal in 48 seconds.
+Jul 23 08:48:00 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:48:00 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:48:00 Rexos dhclient: bound to 192.168.1.67 -- renewal in 54 seconds.
+Jul 23 08:48:54 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:48:54 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:48:54 Rexos dhclient: bound to 192.168.1.67 -- renewal in 59 seconds.
+Jul 23 08:49:53 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:49:53 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:49:53 Rexos dhclient: bound to 192.168.1.67 -- renewal in 52 seconds.
+Jul 23 08:50:45 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:50:45 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:50:45 Rexos dhclient: bound to 192.168.1.67 -- renewal in 47 seconds.
+Jul 23 08:51:32 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:51:32 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:51:32 Rexos dhclient: bound to 192.168.1.67 -- renewal in 58 seconds.
+Jul 23 08:52:30 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:52:30 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:52:30 Rexos dhclient: bound to 192.168.1.67 -- renewal in 59 seconds.
+Jul 23 08:53:29 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:53:29 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:53:29 Rexos dhclient: bound to 192.168.1.67 -- renewal in 57 seconds.
+Jul 23 08:54:26 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:54:26 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:54:26 Rexos dhclient: bound to 192.168.1.67 -- renewal in 59 seconds.
+Jul 23 08:55:25 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:55:25 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:55:25 Rexos dhclient: bound to 192.168.1.67 -- renewal in 57 seconds.
+Jul 23 08:56:22 Rexos dhclient: DHCPREQUEST on enp4s0 to 192.168.1.254 port 67
+Jul 23 08:56:22 Rexos dhclient: DHCPACK from 192.168.1.254
+Jul 23 08:56:22 Rexos dhclient: bound to 192.168.1.67 -- renewal in 57 seconds.
+Jul 23 08:56:57 Rexos init: Switching to runlevel: 0
+Jul 23 08:57:03 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Jul 30 15:15:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Jul 30 15:15:59 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+                                                                                                                                                                                            Jul 30 15:17:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Jul 30 15:17:15 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Jul 30 15:17:25 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Jul 30 15:17:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 18
+Jul 30 15:17:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Jul 30 15:18:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 1
+Jul 30 15:18:11 Rexos dhclient: No DHCPOFFERS received.
+Jul 30 15:18:11 Rexos dhclient: No working leases in persistent database - sleeping.
+Jul 30 15:18:39 Rexos init: Switching to runlevel: 0
+Jul 30 15:18:45 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Jul 30 15:18:45 Rexos dhclient: send_packet: Network is unreachable
+Jul 30 15:18:45 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Jul 30 15:18:45 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  1 07:14:35 Rexos dhclient: Bind socket to interface: No such device
+Aug  1 07:14:35 Rexos dhclient: 
+Aug  1 07:14:35 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Aug  1 07:14:35 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Aug  1 07:14:35 Rexos dhclient: requesting help.
+Aug  1 07:14:35 Rexos dhclient: 
+Aug  1 07:14:35 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Aug  1 07:14:35 Rexos dhclient: yet read the README, please read it before requesting help.
+Aug  1 07:14:35 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Aug  1 07:14:35 Rexos dhclient: mailing list, please read the section on the README about
+Aug  1 07:14:35 Rexos dhclient: submitting bug reports and requests for help.
+Aug  1 07:14:35 Rexos dhclient: 
+Aug  1 07:14:35 Rexos dhclient: Please do not under any circumstances send requests for
+Aug  1 07:14:35 Rexos dhclient: help directly to the authors of this software - please
+Aug  1 07:14:35 Rexos dhclient: send them to the appropriate mailing list as described in
+Aug  1 07:14:35 Rexos dhclient: the README file.
+Aug  1 07:14:35 Rexos dhclient: 
+Aug  1 07:14:35 Rexos dhclient: exiting.
+Aug  1 07:15:32 Rexos init: Switching to runlevel: 0
+Aug  1 15:58:21 Rexos dhclient: Bind socket to interface: No such device
+Aug  1 15:58:21 Rexos dhclient: 
+Aug  1 15:58:21 Rexos dhclient: If you did not get this software from ftp.isc.org, please
+Aug  1 15:58:21 Rexos dhclient: get the latest from ftp.isc.org and install that before
+Aug  1 15:58:21 Rexos dhclient: requesting help.
+Aug  1 15:58:21 Rexos dhclient: 
+Aug  1 15:58:21 Rexos dhclient: If you did get this software from ftp.isc.org and have not
+Aug  1 15:58:21 Rexos dhclient: yet read the README, please read it before requesting help.
+Aug  1 15:58:21 Rexos dhclient: If you intend to request help from the dhcp-server@isc.org
+Aug  1 15:58:21 Rexos dhclient: mailing list, please read the section on the README about
+Aug  1 15:58:21 Rexos dhclient: submitting bug reports and requests for help.
+Aug  1 15:58:21 Rexos dhclient: 
+Aug  1 15:58:21 Rexos dhclient: Please do not under any circumstances send requests for
+Aug  1 15:58:21 Rexos dhclient: help directly to the authors of this software - please
+Aug  1 15:58:21 Rexos dhclient: send them to the appropriate mailing list as described in
+Aug  1 15:58:21 Rexos dhclient: the README file.
+Aug  1 15:58:21 Rexos dhclient: 
+Aug  1 15:58:21 Rexos dhclient: exiting.
+Aug  1 17:10:14 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  1 17:10:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  1 17:10:22 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 17:10:28 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 17:10:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 17:10:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 19
+Aug  1 17:11:13 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  1 17:11:15 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 17:11:15 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 17:18:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 17:18:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 17:18:45 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 19
+Aug  1 17:19:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 17:19:19 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 17:19:25 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 17:19:26 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 17:26:03 Rexos init: Switching to runlevel: 0
+Aug  1 17:26:10 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  1 17:26:10 Rexos dhclient: send_packet: Network is unreachable
+Aug  1 17:26:10 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  1 17:26:10 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  1 17:53:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 17:53:12 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 17:53:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 17:53:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  1 17:53:53 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 17:54:02 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  1 17:54:07 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 17:54:07 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 17:57:12 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 17:57:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 17:57:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 17:57:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  1 17:57:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 17:57:51 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  1 17:58:03 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  1 17:58:13 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 17:58:13 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:03:22 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 18:03:26 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  1 18:03:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 19
+Aug  1 18:03:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 18:04:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  1 18:04:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 18:04:23 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:04:23 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:11:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  1 18:11:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 18:11:15 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 18:11:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 18:11:37 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:11:45 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 18:11:58 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 18:12:02 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:12:02 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:18:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 18:18:56 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:19:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 18:19:19 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:19:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 20
+Aug  1 18:19:47 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  1 18:19:49 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:19:49 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:22:56 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 18:23:03 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  1 18:23:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  1 18:23:29 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 18:23:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 18:23:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  1 18:23:57 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:23:57 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:28:21 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 18:28:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:28:35 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  1 18:28:49 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  1 18:29:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:29:14 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:29:22 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:29:22 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:33:25 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 18:33:31 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 18:33:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 18:33:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 18:34:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  1 18:34:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  1 18:34:26 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:34:26 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:37:47 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 18:37:53 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 18:38:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 18:38:11 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  1 18:38:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  1 18:38:32 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  1 18:38:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 18:38:48 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:38:48 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:43:49 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  1 18:43:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  1 18:44:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 18:44:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 18:44:26 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 18:44:41 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  1 18:44:50 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 18:44:50 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 18:48:14 Rexos init: Switching to runlevel: 6
+Aug  1 18:48:21 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  1 18:48:21 Rexos dhclient: send_packet: Network is unreachable
+Aug  1 18:48:21 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  1 18:48:21 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  1 19:02:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 19:02:22 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  1 19:02:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 19:02:38 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  1 19:02:52 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  1 19:03:08 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 19:03:19 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 19:03:19 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 19:06:04 Rexos init: Switching to runlevel: 6
+Aug  1 19:06:11 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  1 19:06:11 Rexos dhclient: send_packet: Network is unreachable
+Aug  1 19:06:11 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  1 19:06:11 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  1 19:11:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 19:12:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  1 19:12:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  1 19:12:15 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 19
+Aug  1 19:12:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  1 19:12:47 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 19:12:58 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 19:12:58 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 19:18:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  1 19:18:35 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  1 19:18:46 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 19:18:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  1 19:19:02 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  1 19:19:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  1 19:19:31 Rexos dhclient: No DHCPOFFERS received.
+Aug  1 19:19:31 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  1 19:20:16 Rexos init: Switching to runlevel: 0
+Aug  1 19:20:23 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  1 19:20:23 Rexos dhclient: send_packet: Network is unreachable
+Aug  1 19:20:23 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  1 19:20:23 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 14:47:09 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 14:47:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 14:47:25 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 14:47:37 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 14:47:52 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 14:48:00 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 14:48:10 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 14:48:10 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 14:51:38 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 14:51:44 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 14:51:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 14:52:07 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 14:52:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 14:52:29 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 14:52:39 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 14:52:39 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 14:52:53 Rexos init: Switching to runlevel: 0
+Aug  3 14:52:59 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 14:52:59 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 14:52:59 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 14:52:59 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 15:17:26 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 15:17:29 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:17:37 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 15:17:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 15:18:00 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  3 15:18:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 15:18:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 15:18:27 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:18:27 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:19:14 Rexos init: Switching to runlevel: 6
+Aug  3 15:19:21 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 15:19:21 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 15:19:21 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 15:19:21 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 15:19:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  3 15:19:56 Rexos last message repeated 2 times
+Aug  3 15:20:00 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  3 15:20:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:20:13 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 21
+Aug  3 15:20:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 15:20:49 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:20:49 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:23:31 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:23:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 15:23:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 15:24:11 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 20
+Aug  3 15:24:31 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 1
+Aug  3 15:24:32 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:24:32 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:27:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 15:27:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 15:27:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 15:27:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 15:28:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 15:28:17 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:28:17 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:31:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 15:31:09 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 15:31:12 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 15:31:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 15:31:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 15:31:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 15:31:46 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:31:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  3 15:32:03 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  3 15:32:07 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:32:07 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:37:25 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:37:25 Rexos init: Switching to runlevel: 6
+Aug  3 15:37:31 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 15:37:31 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 15:37:31 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 15:37:31 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 15:38:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 15:38:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 15:38:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 15:38:21 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  3 15:38:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 15:38:41 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 21
+Aug  3 15:39:02 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:39:02 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:43:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  3 15:43:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  3 15:43:38 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 15:43:46 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 15:43:56 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 15:44:09 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 15:44:21 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 15:44:31 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 15:44:31 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 15:47:45 Rexos init: Switching to runlevel: 0
+Aug  3 15:47:51 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 15:47:51 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 15:47:51 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 15:47:51 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 16:48:41 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 16:48:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  3 16:49:02 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 19
+Aug  3 16:49:21 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 16:49:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 16:49:42 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 16:49:42 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 16:53:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  3 16:53:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 16:53:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  3 16:53:40 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  3 16:53:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  3 16:54:06 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 16:54:06 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 16:59:32 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 16:59:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  3 16:59:53 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  3 17:00:02 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 17:00:13 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  3 17:00:30 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 17:00:33 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 17:00:33 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 17:03:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:03:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 17:03:33 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 17:03:46 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:03:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  3 17:04:11 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 17:04:11 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 17:10:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 17:10:33 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 21
+Aug  3 17:10:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 17:11:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 18
+Aug  3 17:11:28 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 17:11:28 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 17:13:23 Rexos init: Switching to runlevel: 0
+Aug  3 17:13:29 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 17:13:29 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 17:13:29 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 17:13:29 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 17:44:46 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:44:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:45:02 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 17:45:15 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 21
+Aug  3 17:45:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  3 17:45:47 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 17:45:47 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 17:52:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:52:50 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 17:53:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  3 17:53:19 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 17:53:35 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 17:53:43 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 17:53:43 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 17:55:16 Rexos init: Switching to runlevel: 0
+Aug  3 17:55:22 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 17:55:22 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 17:55:22 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 17:55:22 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 18:45:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 18:45:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 18:45:35 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 18:45:45 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 18:46:00 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 18
+Aug  3 18:46:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 18:46:25 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 18:46:25 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 18:52:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  3 18:53:00 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  3 18:53:08 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  3 18:53:18 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  3 18:53:32 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  3 18:53:39 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 18:53:54 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 4
+Aug  3 18:53:58 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 18:53:58 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 18:58:05 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  3 18:58:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 18:58:22 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 18:58:37 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  3 18:58:50 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  3 18:59:06 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 18:59:06 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 19:04:46 Rexos init: Switching to runlevel: 0
+Aug  3 19:04:52 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 19:04:52 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 19:04:52 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 19:04:52 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  3 19:20:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  3 19:20:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  3 19:20:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 19:20:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  3 19:20:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  3 19:21:03 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  3 19:21:05 Rexos dhclient: No DHCPOFFERS received.
+Aug  3 19:21:05 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  3 19:23:54 Rexos init: Switching to runlevel: 0
+Aug  3 19:24:00 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  3 19:24:00 Rexos dhclient: send_packet: Network is unreachable
+Aug  3 19:24:00 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  3 19:24:00 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  4 13:49:31 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 13:49:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  4 13:49:40 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  4 13:49:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  4 13:49:56 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 10
+Aug  4 13:50:06 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  4 13:50:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 9
+Aug  4 13:50:26 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  4 13:50:32 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 13:50:32 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 13:53:44 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  4 13:53:50 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 13:53:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  4 13:54:10 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 17
+Aug  4 13:54:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  4 13:54:42 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 13:54:45 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 13:54:45 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 13:59:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 13:59:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  4 13:59:09 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 13:59:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 13:59:23 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  4 13:59:37 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 18
+Aug  4 13:59:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 14:00:02 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:00:02 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:06:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:06:04 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:06:07 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  4 14:06:12 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  4 14:06:20 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  4 14:06:34 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  4 14:06:47 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 14
+Aug  4 14:07:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 1
+Aug  4 14:07:02 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:07:02 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:11:13 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:11:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:11:19 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  4 14:11:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  4 14:11:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  4 14:11:48 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  4 14:12:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  4 14:12:12 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  4 14:12:14 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:12:14 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:19:22 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 14:19:29 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  4 14:19:44 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 11
+Aug  4 14:19:55 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 21
+Aug  4 14:20:16 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 14:20:23 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:20:23 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:26:53 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:26:56 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  4 14:27:01 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 12
+Aug  4 14:27:13 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 15
+Aug  4 14:27:28 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 8
+Aug  4 14:27:36 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 16
+Aug  4 14:27:52 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 2
+Aug  4 14:27:54 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:27:54 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:32:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 3
+Aug  4 14:32:27 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 5
+Aug  4 14:32:32 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  4 14:32:38 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 6
+Aug  4 14:32:44 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 13
+Aug  4 14:32:57 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 20
+Aug  4 14:33:17 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 7
+Aug  4 14:33:24 Rexos dhclient: DHCPDISCOVER on enp4s0 to 255.255.255.255 port 67 interval 1
+Aug  4 14:33:25 Rexos dhclient: No DHCPOFFERS received.
+Aug  4 14:33:25 Rexos dhclient: No working leases in persistent database - sleeping.
+Aug  4 14:36:07 Rexos init: Switching to runlevel: 0
+Aug  4 14:36:14 Rexos dhclient: DHCPRELEASE on enp4s0 to 192.168.1.254 port 67
+Aug  4 14:36:14 Rexos dhclient: send_packet: Network is unreachable
+Aug  4 14:36:14 Rexos dhclient: send_packet: please consult README file regarding broadcast address.
+Aug  4 14:36:14 Rexos dhclient: dhclient.c:2273: Failed to send 300 byte long packet over fallback interface.
+Aug  4 15:46:43 Rexos init: Switching to runlevel: 0
+Aug  4 16:23:18 Rexos init: Switching to runlevel: 0
+Aug  4 17:49:26 Rexos init: Switching to runlevel: 0
+Aug  4 18:26:59 Rexos init: Switching to runlevel: 0
+Aug  4 18:54:27 Rexos init: Switching to runlevel: 6

@@ -1,0 +1,111 @@
+Jul 16 23:01:26 Rexos login[1774]: ROOT LOGIN  on '/dev/tty1'
+Jul 16 23:02:50 Rexos login[1804]: ROOT LOGIN  on '/dev/tty1'
+Jul 16 23:02:57 Rexos login[1808]: ROOT LOGIN  on '/dev/tty1'
+Jul 18 11:49:05 Rexos login[1775]: ROOT LOGIN  on '/dev/tty1'
+Jul 18 22:11:17 Rexos login[1773]: ROOT LOGIN  on '/dev/tty1'
+Jul 18 22:14:09 Rexos login[1844]: ROOT LOGIN  on '/dev/tty1'
+Jul 18 22:14:22 Rexos login[1778]: ROOT LOGIN  on '/dev/tty6'
+Jul 18 22:14:29 Rexos login[1858]: ROOT LOGIN  on '/dev/tty6'
+Jul 18 22:29:56 Rexos agetty[1878]: checkname failed: Operation not permitted
+Jul 18 22:30:52 Rexos login[1883]: ROOT LOGIN  on '/dev/tty6'
+Jul 18 23:41:29 Rexos login[1790]: ROOT LOGIN  on '/dev/tty1'
+Jul 18 23:44:47 Rexos useradd[1809]: new group: name=rexos, GID=1000
+Jul 18 23:44:47 Rexos useradd[1809]: new user: name=rexos, UID=1000, GID=1000, home=/home/rexos, shell=/bin/bash
+Jul 18 23:45:19 Rexos passwd[1814]: password for 'rexos' changed by 'root'
+Jul 18 23:46:40 Rexos login[1842]: ROOT LOGIN  on '/dev/tty1'
+Jul 20 19:38:53 Rexos sudo:    rexos : TTY=tty1 ; PWD=/ ; USER=root ; COMMAND=/bin/mkdir probandosudo
+Jul 20 19:39:08 Rexos sudo:    rexos : TTY=tty1 ; PWD=/ ; USER=root ; COMMAND=/bin/rm -rvf probandosudo/
+Jul 20 19:43:56 Rexos login[1922]: ROOT LOGIN  on '/dev/tty1'
+Jul 20 19:45:07 Rexos su[1956]: Successful su for root by rexos
+Jul 20 19:45:07 Rexos su[1956]: + /dev/tty1 rexos:root
+Jul 21 15:33:06 Rexos login[1837]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 15:35:46 Rexos login[1859]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 15:49:45 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Jul 21 15:49:56 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 15:50:42 Rexos login[1897]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 16:04:35 Rexos su[1855]: Successful su for root by rexos
+Jul 21 16:04:35 Rexos su[1855]: + /dev/tty1 rexos:root
+Jul 21 16:06:37 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/usr/bin/gpasswd -a rexos mail
+Jul 21 16:06:38 Rexos gpasswd[1873]: user rexos added by root to group mail
+Jul 21 16:06:56 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/usr/bin/gpasswd -a rexos net
+Jul 21 16:07:22 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/usr/bin/gpasswd -a rexos dialout
+Jul 21 16:07:23 Rexos gpasswd[1880]: user rexos added by root to group dialout
+Jul 21 16:08:49 Rexos su[1899]: Successful su for root by rexos
+Jul 21 16:08:49 Rexos su[1899]: + /dev/tty1 rexos:root
+Jul 21 16:09:23 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/usr/bin/gpasswd -a rexos bin
+Jul 21 16:09:23 Rexos gpasswd[1905]: user rexos added by root to group bin
+Jul 21 16:09:40 Rexos sudo:    rexos : TTY=tty1 ; PWD=/home/rexos ; USER=root ; COMMAND=/usr/bin/gpasswd -d rexos bin
+Jul 21 16:09:40 Rexos gpasswd[1912]: user rexos removed by root from group bin
+Jul 21 16:09:57 Rexos login[1919]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 16:11:55 Rexos su[1953]: Successful su for root by rexos
+Jul 21 16:11:55 Rexos su[1953]: + /dev/tty1 rexos:root
+Jul 21 16:12:08 Rexos su[1961]: Successful su for root by rexos
+Jul 21 16:12:08 Rexos su[1961]: + /dev/tty1 rexos:root
+Jul 21 18:04:56 Rexos login[1835]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 18:09:32 Rexos login[1836]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 22:14:58 Rexos su[1849]: Successful su for root by rexos
+Jul 21 22:14:58 Rexos su[1849]: + /dev/tty1 rexos:root
+Jul 21 22:15:15 Rexos login[1858]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 22:32:07 Rexos login[1837]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 22:45:21 Rexos login[1880]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 23:19:40 Rexos login[1880]: invalid password for 'rexos'  on '/dev/tty1'
+Jul 21 23:19:49 Rexos login[1880]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 23:50:17 Rexos sudo:     root : TTY=tty1 ; PWD=/etc/sysconfig ; USER=root ; COMMAND=/sbin/reboot
+Jul 21 23:50:57 Rexos login[1872]: ROOT LOGIN  on '/dev/tty1'
+Jul 21 23:59:53 Rexos su[1911]: Successful su for root by rexos
+Jul 21 23:59:53 Rexos su[1911]: + /dev/tty1 rexos:root
+Jul 22 00:00:12 Rexos login[1912]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 00:15:49 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 00:20:32 Rexos login[1888]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 12:29:06 Rexos login[1899]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 12:46:39 Rexos login[1886]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 12:56:27 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 13:36:32 Rexos login[1870]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 14:08:55 Rexos login[1871]: invalid password for 'root'  on '/dev/tty1'
+Jul 22 14:09:01 Rexos login[1871]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 15:53:04 Rexos login[1852]: invalid password for 'root'  on '/dev/tty1'
+Jul 22 15:53:13 Rexos login[1852]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 19:27:34 Rexos login[1852]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 19:28:01 Rexos login[1873]: invalid password for 'rexos'  on '/dev/tty1'
+Jul 22 19:35:10 Rexos su[1898]: Successful su for root by rexos
+Jul 22 19:35:10 Rexos su[1898]: + /dev/tty1 rexos:root
+Jul 22 19:39:38 Rexos login[1886]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 20:42:30 Rexos login[1888]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 20:55:52 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 21:26:04 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 22 21:28:24 Rexos login[1888]: ROOT LOGIN  on '/dev/tty1'
+Jul 23 06:42:06 Rexos login[1887]: ROOT LOGIN  on '/dev/tty1'
+Jul 23 08:10:19 Rexos login[1917]: ROOT LOGIN  on '/dev/tty1'
+Jul 23 08:34:50 Rexos login[1923]: ROOT LOGIN  on '/dev/tty1'
+Jul 23 08:36:01 Rexos login[1960]: ROOT LOGIN  on '/dev/tty1'
+Jul 23 08:43:13 Rexos login[1924]: ROOT LOGIN  on '/dev/tty2'
+Jul 30 15:18:18 Rexos login[1916]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 07:14:50 Rexos login[1910]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 17:11:37 Rexos login[2106]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 17:20:29 Rexos login[2107]: ROOT LOGIN  on '/dev/tty2'
+Aug  1 17:21:29 Rexos login[2200]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 17:25:56 Rexos login[2270]: ROOT LOGIN  on '/dev/tty2'
+Aug  1 17:26:03 Rexos sudo:     root : TTY=tty2 ; PWD=/root ; USER=root ; COMMAND=/sbin/shutdown -hP now
+Aug  1 17:54:26 Rexos login[2112]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 18:48:14 Rexos sudo:     root : TTY=tty1 ; PWD=/etc/sysconfig ; USER=root ; COMMAND=/sbin/reboot
+Aug  1 19:03:59 Rexos login[2113]: ROOT LOGIN  on '/dev/tty1'
+Aug  1 19:13:19 Rexos login[2110]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 14:48:54 Rexos login[1703]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 15:18:37 Rexos login[1705]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 15:23:31 Rexos login[1706]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 15:39:10 Rexos login[1706]: invalid password for 'root'  on '/dev/tty1'
+Aug  3 15:39:24 Rexos login[1706]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 16:50:06 Rexos login[1707]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 16:51:23 Rexos login[1708]: ROOT LOGIN  on '/dev/tty2'
+Aug  3 17:51:52 Rexos login[1704]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 18:46:34 Rexos login[1705]: ROOT LOGIN  on '/dev/tty1'
+Aug  3 19:21:23 Rexos login[1705]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 13:50:40 Rexos login[1703]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 14:24:50 Rexos login[1704]: ROOT LOGIN  on '/dev/tty2'
+Aug  4 15:42:01 Rexos login[1687]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 15:51:45 Rexos login[1688]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 16:59:14 Rexos login[1686]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 18:09:48 Rexos login[1686]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 18:28:52 Rexos login[1686]: ROOT LOGIN  on '/dev/tty1'
+Aug  4 18:34:34 Rexos login[1687]: ROOT LOGIN  on '/dev/tty2'
+Aug  4 18:37:46 Rexos login[2273]: ROOT LOGIN  on '/dev/tty1'

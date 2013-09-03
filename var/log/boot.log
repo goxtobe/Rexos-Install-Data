@@ -1,0 +1,1066 @@
+Jul 16 23:00:15 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 16 23:00:15 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 16 23:00:15 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 16 23:00:15 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 16 23:00:18 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 16 23:00:18 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 16 23:00:19 -07:00 Rexos  Checking file systems... OK
+Jul 16 23:00:19 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 16 23:00:19 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 16 23:00:19 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 16 23:00:19 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 16 23:00:20 -07:00 Rexos  Setting up Linux console... OK
+Jul 16 23:00:20 -07:00 Rexos  Starting system log daemon... OK
+Jul 16 23:00:20 -07:00 Rexos  Starting kernel log daemon... OK
+--------
+Jul 18 11:48:00 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 18 11:48:00 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 18 11:48:00 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 18 11:48:00 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 18 11:48:04 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 18 11:48:04 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 18 11:48:04 -07:00 Rexos  Checking file systems... OK
+Jul 18 11:48:04 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 18 11:48:04 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 18 11:48:04 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 18 11:48:04 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 18 11:48:06 -07:00 Rexos  Setting up Linux console... OK
+Jul 18 11:48:06 -07:00 Rexos  Starting system log daemon... OK
+Jul 18 11:48:06 -07:00 Rexos  Starting kernel log daemon... OK
+--------
+Jul 18 22:11:03 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 18 22:11:03 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 18 22:11:03 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 18 22:11:03 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 18 22:11:06 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 18 22:11:06 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 18 22:11:07 -07:00 Rexos  Checking file systems... OK
+Jul 18 22:11:07 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 18 22:11:07 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 18 22:11:07 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 18 22:11:07 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 18 22:11:08 -07:00 Rexos  Setting up Linux console... OK
+Jul 18 22:11:08 -07:00 Rexos  Starting system log daemon... OK
+Jul 18 22:11:08 -07:00 Rexos  Starting kernel log daemon... OK
+--------
+Jul 18 23:41:19 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 18 23:41:19 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 18 23:41:19 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 18 23:41:19 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 18 23:41:22 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 18 23:41:22 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 18 23:41:22 -07:00 Rexos  Checking file systems... OK
+Jul 18 23:41:22 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 18 23:41:22 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 18 23:41:22 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 18 23:41:22 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 18 23:41:24 -07:00 Rexos  Setting up Linux console... OK
+Jul 18 23:41:24 -07:00 Rexos  Starting system log daemon... OK
+Jul 18 23:41:24 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 18 23:41:24 -07:00 Rexos  Initializing kernel random number generator... OK
+--------
+Jul 20 19:37:49 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 20 19:37:49 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 20 19:37:49 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 20 19:37:49 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 20 19:37:53 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 20 19:37:53 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 20 19:37:53 -07:00 Rexos  Checking file systems... OK
+Jul 20 19:37:53 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 20 19:37:53 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 20 19:37:53 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 20 19:37:53 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 20 19:37:55 -07:00 Rexos  Setting up Linux console... OK
+Jul 20 19:37:55 -07:00 Rexos  Starting system log daemon... OK
+Jul 20 19:37:55 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 20 19:37:55 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 20 19:37:55 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 15:32:56 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 15:32:56 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 15:32:56 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 15:32:56 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 15:32:59 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 15:32:59 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 15:33:00 -07:00 Rexos  Checking file systems... OK
+Jul 21 15:33:00 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 15:33:00 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 15:33:00 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 15:33:00 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 15:33:00 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 15:33:01 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 15:33:01 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 15:33:01 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 15:33:01 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 15:33:01 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 15:34:15 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 15:34:15 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 15:34:16 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 15:34:16 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 15:34:19 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 15:34:19 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 15:34:19 -07:00 Rexos  Checking file systems... OK
+Jul 21 15:34:19 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 15:34:19 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 15:34:19 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 15:34:20 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 15:34:20 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 15:34:21 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 15:34:21 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 15:34:21 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 15:34:21 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 15:34:21 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 15:35:08 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 15:35:08 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 15:35:08 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 15:35:09 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 15:35:11 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 15:35:11 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 15:35:11 -07:00 Rexos  Checking file systems... OK
+Jul 21 15:35:12 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 15:35:12 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 15:35:12 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 15:35:12 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 15:35:12 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 15:35:13 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 15:35:13 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 15:35:13 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 15:35:13 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 15:35:13 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 16:03:37 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 16:03:37 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 16:03:37 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 16:03:37 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 16:03:40 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 16:03:40 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 16:03:41 -07:00 Rexos  Checking file systems... OK
+Jul 21 16:03:41 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 16:03:41 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 16:03:41 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 16:03:41 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 16:03:41 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 16:03:42 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 16:03:42 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 16:03:42 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 16:03:42 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 16:03:42 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 18:04:47 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 18:04:47 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 18:04:47 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 18:04:47 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 18:04:50 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 18:04:50 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 18:04:50 -07:00 Rexos  Checking file systems... OK
+Jul 21 18:04:51 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 18:04:51 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 18:04:51 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 18:04:51 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 18:04:51 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 18:04:52 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 18:04:52 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 18:04:52 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 18:04:52 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 18:04:52 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 18:09:23 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 18:09:23 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 18:09:23 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 18:09:23 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 18:09:26 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 18:09:26 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 18:09:26 -07:00 Rexos  Checking file systems... OK
+Jul 21 18:09:27 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 18:09:27 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 18:09:27 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 18:09:27 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 18:09:27 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 18:09:28 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 18:09:28 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 18:09:28 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 18:09:28 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 18:09:28 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 22:14:41 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 22:14:41 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 22:14:41 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 22:14:41 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 22:14:44 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 22:14:45 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 22:14:45 -07:00 Rexos  Checking file systems... OK
+Jul 21 22:14:45 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 22:14:45 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 22:14:45 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 22:14:45 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 22:14:45 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 22:14:47 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 22:14:47 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 22:14:47 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 22:14:47 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 22:14:47 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 22:31:57 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 22:31:57 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 22:31:57 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 22:31:57 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 22:32:00 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 22:32:00 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 22:32:01 -07:00 Rexos  Checking file systems... OK
+Jul 21 22:32:01 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 22:32:01 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 22:32:01 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 22:32:01 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 22:32:01 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 22:32:02 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 22:32:02 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 22:32:02 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 22:32:02 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 22:32:02 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 22:45:11 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 22:45:11 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 22:45:11 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 22:45:11 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 22:45:14 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 22:45:14 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 22:45:15 -07:00 Rexos  Checking file systems... OK
+Jul 21 22:45:15 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 22:45:15 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 22:45:15 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 22:45:15 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 22:45:15 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 22:45:16 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 22:45:16 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 22:45:16 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 22:45:16 -07:00 Rexos  Bringing up the lo interface... 
+Jul 21 22:45:16 -07:00 Rexos  Adding IPv4 address 192.168.1.65 to the lo interface... OK
+Jul 21 22:45:16 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 22:45:16 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 23:19:26 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 23:19:26 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 23:19:26 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 23:19:26 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 23:19:30 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 23:19:30 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 23:19:30 -07:00 Rexos  Checking file systems... OK
+Jul 21 23:19:30 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 23:19:30 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 23:19:30 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 23:19:31 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 23:19:31 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 23:19:32 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 23:19:32 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 23:19:32 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 23:19:32 -07:00 Rexos  Bringing up the lo interface... 
+Jul 21 23:19:32 -07:00 Rexos  Adding IPv4 address 192.168.1.75 to the lo interface... OK
+Jul 21 23:19:32 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 23:19:32 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 21 23:50:46 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 21 23:50:46 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 21 23:50:46 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 21 23:50:46 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 21 23:50:50 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 21 23:50:50 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 21 23:50:50 -07:00 Rexos  Checking file systems... OK
+Jul 21 23:50:50 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 21 23:50:50 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 21 23:50:50 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 21 23:50:51 -07:00 Rexos  Creating files and directories...  OK
+Jul 21 23:50:51 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 21 23:50:52 -07:00 Rexos  Setting up Linux console... OK
+Jul 21 23:50:52 -07:00 Rexos  Starting system log daemon... OK
+Jul 21 23:50:52 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 21 23:50:52 -07:00 Rexos  Bringing up the lo interface... Jul 21 23:50:52 -07:00 Rexos  
+ Starting dhclient on the lo interface...FAIL
+Jul 21 23:50:52 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 21 23:50:53 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 00:14:52 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 00:14:52 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 00:14:52 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 00:14:52 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 00:14:55 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 00:14:55 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 00:14:56 -07:00 Rexos  Checking file systems... OK
+Jul 22 00:14:56 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 00:14:56 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 00:14:56 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 00:14:56 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 00:14:56 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 00:14:57 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 00:14:57 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 00:14:57 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 00:14:57 -07:00 Rexos  Bringing up the lo interface... Jul 22 00:14:57 -07:00 Rexos  
+ Starting dhclient on the lo interface...FAIL
+Jul 22 00:14:57 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 00:14:58 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 00:14:58 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 00:20:21 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 00:20:21 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 00:20:21 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 00:20:21 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 00:20:24 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 00:20:25 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 00:20:25 -07:00 Rexos  Checking file systems... OK
+Jul 22 00:20:25 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 00:20:25 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 00:20:25 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 00:20:25 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 00:20:25 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 00:20:26 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 00:20:26 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 00:20:26 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 00:20:26 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 00:20:26 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 00:20:26 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 00:20:26 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 00:20:27 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 12:28:42 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 12:28:42 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 12:28:42 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 12:28:42 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 12:28:46 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 12:28:46 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 12:28:46 -07:00 Rexos  Checking file systems... OK
+Jul 22 12:28:46 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 12:28:46 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 12:28:46 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 12:28:46 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 12:28:47 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 12:28:48 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 12:28:48 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 12:28:48 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 12:28:48 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 12:28:48 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 12:28:48 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 12:28:49 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 12:28:49 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 12:45:41 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 12:45:41 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 12:45:41 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 12:45:41 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 12:45:44 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 12:45:44 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 12:45:44 -07:00 Rexos  Checking file systems... OK
+Jul 22 12:45:44 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 12:45:44 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 12:45:44 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 12:45:44 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 12:45:44 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 12:45:46 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 12:45:46 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 12:45:46 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 12:45:46 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 12:45:46 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 12:45:46 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 12:45:46 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 12:45:47 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 12:55:46 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 12:55:46 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 12:55:46 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 12:55:46 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 12:55:49 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 12:55:49 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 12:55:50 -07:00 Rexos  Checking file systems... OK
+Jul 22 12:55:50 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 12:55:50 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 12:55:50 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 12:55:50 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 12:55:50 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 12:55:51 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 12:55:51 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 12:55:51 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 12:55:51 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 12:55:51 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 12:55:51 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 12:55:52 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 12:55:52 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 13:34:06 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 13:34:06 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 13:34:06 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 13:34:06 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 13:34:10 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 13:34:10 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 13:34:10 -07:00 Rexos  Checking file systems... OK
+Jul 22 13:34:10 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 13:34:10 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 13:34:10 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 13:34:11 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 13:34:11 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 13:34:12 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 13:34:12 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 13:34:12 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 13:34:12 -07:00 Rexos  Bringing up the sit0 interface... skippedJul 22 13:34:12 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 13:34:12 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 13:34:12 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 14:07:21 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 14:07:21 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 14:07:21 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 14:07:21 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 14:07:25 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 14:07:25 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 14:07:25 -07:00 Rexos  Checking file systems... OK
+Jul 22 14:07:25 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 14:07:26 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 14:07:26 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 14:07:26 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 14:07:26 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 14:07:27 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 14:07:27 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 14:07:27 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 14:07:27 -07:00 Rexos  Bringing up the sit0 interface... skippedJul 22 14:07:27 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 14:07:27 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 14:07:27 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 15:52:32 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 15:52:32 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 15:52:32 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 15:52:32 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 15:52:35 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 15:52:35 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 15:52:36 -07:00 Rexos  Checking file systems... OK
+Jul 22 15:52:36 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 15:52:36 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 15:52:36 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 15:52:36 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 15:52:36 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 15:52:37 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 15:52:37 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 15:52:37 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 15:52:37 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 15:52:37 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 15:52:37 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 19:27:06 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 19:27:06 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 19:27:06 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 19:27:06 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 19:27:09 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 19:27:09 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 19:27:10 -07:00 Rexos  Checking file systems... OK
+Jul 22 19:27:10 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 19:27:10 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 19:27:10 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 19:27:10 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 19:27:10 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 19:27:11 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 19:27:11 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 19:27:11 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 19:27:11 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 19:27:11 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 19:27:11 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 19:38:23 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 19:38:23 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 19:38:23 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 19:38:23 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 19:38:26 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 19:38:26 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 19:38:26 -07:00 Rexos  Checking file systems... OK
+Jul 22 19:38:26 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 19:38:26 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 19:38:26 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 19:38:27 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 19:38:27 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 19:38:28 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 19:38:28 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 19:38:28 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 19:38:28 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 19:38:28 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 19:38:28 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 19:38:29 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 19:38:29 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 20:42:16 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 20:42:16 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 20:42:16 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 20:42:16 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 20:42:19 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 20:42:19 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 20:42:19 -07:00 Rexos  Checking file systems... OK
+Jul 22 20:42:20 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 20:42:20 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 20:42:20 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 20:42:20 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 20:42:20 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 20:42:21 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 20:42:21 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 20:42:21 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 20:42:21 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 20:42:21 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 20:42:21 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 20:42:22 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 20:42:22 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 20:55:42 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 20:55:42 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 20:55:42 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 20:55:42 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 20:55:45 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 20:55:46 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 20:55:46 -07:00 Rexos  Checking file systems... OK
+Jul 22 20:55:46 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 20:55:46 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 20:55:46 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 20:55:46 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 20:55:46 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 20:55:47 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 20:55:47 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 20:55:47 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 20:55:47 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 20:55:47 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 20:55:47 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 20:55:48 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 20:55:48 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 21:23:51 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 21:23:51 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 21:23:51 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 21:23:51 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 21:23:55 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 21:23:55 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 21:23:55 -07:00 Rexos  Checking file systems... OK
+Jul 22 21:23:55 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 21:23:55 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 21:23:55 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 21:23:55 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 21:23:56 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 21:23:57 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 21:23:57 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 21:23:57 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 21:23:57 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 21:23:57 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 21:23:57 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 21:23:58 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 21:23:58 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 22 21:28:10 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 22 21:28:10 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 22 21:28:10 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 22 21:28:10 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 22 21:28:12 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 22 21:28:13 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 22 21:28:13 -07:00 Rexos  Checking file systems... OK
+Jul 22 21:28:13 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 22 21:28:13 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 22 21:28:13 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 22 21:28:13 -07:00 Rexos  Creating files and directories...  OK
+Jul 22 21:28:13 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 22 21:28:15 -07:00 Rexos  Setting up Linux console... OK
+Jul 22 21:28:15 -07:00 Rexos  Starting system log daemon... OK
+Jul 22 21:28:15 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 22 21:28:15 -07:00 Rexos  Bringing up the sit0 interface... Jul 22 21:28:15 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 22 21:28:15 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 22 21:28:15 -07:00 Rexos  Mounting network volumes... OK
+Jul 22 21:28:16 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 23 06:41:38 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 23 06:41:38 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 23 06:41:38 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 23 06:41:38 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 23 06:41:41 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 23 06:41:41 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 23 06:41:41 -07:00 Rexos  Checking file systems... OK
+Jul 23 06:41:42 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 23 06:41:42 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 23 06:41:42 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 23 06:41:42 -07:00 Rexos  Creating files and directories...  OK
+Jul 23 06:41:42 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 23 06:41:43 -07:00 Rexos  Setting up Linux console... OK
+Jul 23 06:41:43 -07:00 Rexos  Starting system log daemon... OK
+Jul 23 06:41:43 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 23 06:41:43 -07:00 Rexos  Bringing up the sit0 interface... Jul 23 06:41:43 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 23 06:41:43 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 23 06:41:44 -07:00 Rexos  Mounting network volumes... OK
+Jul 23 06:41:44 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 23 08:10:08 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 23 08:10:08 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 23 08:10:08 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 23 08:10:08 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 23 08:10:11 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 23 08:10:11 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 23 08:10:12 -07:00 Rexos  Checking file systems... OK
+Jul 23 08:10:12 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 23 08:10:12 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 23 08:10:12 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 23 08:10:12 -07:00 Rexos  Creating files and directories...  OK
+Jul 23 08:10:12 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 23 08:10:13 -07:00 Rexos  Setting up Linux console... OK
+Jul 23 08:10:13 -07:00 Rexos  Starting system log daemon... OK
+Jul 23 08:10:13 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 23 08:10:13 -07:00 Rexos  Bringing up the sit0 interface... Jul 23 08:10:13 -07:00 Rexos  
+ Starting dhclient on the sit0 interface...FAIL
+Jul 23 08:10:13 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 23 08:10:13 -07:00 Rexos  Mounting network volumes... OK
+Jul 23 08:10:14 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 23 08:34:21 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 23 08:34:21 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 23 08:34:21 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 23 08:34:21 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 23 08:34:25 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 23 08:34:25 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 23 08:34:25 -07:00 Rexos  Checking file systems... OK
+Jul 23 08:34:25 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 23 08:34:25 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 23 08:34:25 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 23 08:34:26 -07:00 Rexos  Creating files and directories...  OK
+Jul 23 08:34:26 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 23 08:34:27 -07:00 Rexos  Setting up Linux console... OK
+Jul 23 08:34:27 -07:00 Rexos  Starting system log daemon... OK
+Jul 23 08:34:27 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 23 08:34:27 -07:00 Rexos  Bringing up the enp4s0 interface... Jul 23 08:34:27 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Jul 23 08:34:27 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 23 08:34:28 -07:00 Rexos  Mounting network volumes... OK
+Jul 23 08:34:28 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Jul 30 15:17:04 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Jul 30 15:17:05 -07:00 (none)  Bringing up the loopback interface... OK
+Jul 30 15:17:05 -07:00 (none)  Setting hostname to Rexos... OK
+Jul 30 15:17:05 -07:00 Rexos  Populating /dev with device nodes...  OK
+Jul 30 15:17:08 -07:00 Rexos  Activating all swap files/partitions... OK
+Jul 30 15:17:08 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Jul 30 15:17:08 -07:00 Rexos  Checking file systems... OK
+Jul 30 15:17:09 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Jul 30 15:17:09 -07:00 Rexos  Mounting remaining file systems... OK
+Jul 30 15:17:09 -07:00 Rexos  Cleaning file systems: /tmp OK
+Jul 30 15:17:09 -07:00 Rexos  Creating files and directories...  OK
+Jul 30 15:17:09 -07:00 Rexos  Retrying failed uevents, if any... OK
+Jul 30 15:17:10 -07:00 Rexos  Setting up Linux console... OK
+Jul 30 15:17:10 -07:00 Rexos  Starting system log daemon... OK
+Jul 30 15:17:10 -07:00 Rexos  Starting kernel log daemon... OK
+Jul 30 15:17:10 -07:00 Rexos  Bringing up the enp4s0 interface... Jul 30 15:17:10 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Jul 30 15:18:11 -07:00 Rexos  Initializing kernel random number generator... OK
+Jul 30 15:18:11 -07:00 Rexos  Mounting network volumes... OK
+Jul 30 15:18:11 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 07:14:29 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 01 07:14:29 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 07:14:29 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 07:14:29 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 07:14:33 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 07:14:33 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 07:14:33 -07:00 Rexos  Checking file systems... OK
+Aug 01 07:14:33 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 07:14:34 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 07:14:34 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 07:14:34 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 07:14:34 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 07:14:35 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 07:14:35 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 07:14:35 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 07:14:35 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 07:14:35 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface...FAIL
+Aug 01 07:14:35 -07:00 Rexos  
+Interface enp4s0 doesn't exist. FAIL
+Aug 01 07:14:35 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 07:14:36 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 07:14:36 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 15:58:16 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 01 15:58:16 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 15:58:16 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 15:58:16 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 15:58:19 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 15:58:19 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 15:58:20 -07:00 Rexos  Checking file systems... OK
+Aug 01 15:58:20 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 15:58:20 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 15:58:20 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 15:58:20 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 15:58:20 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 15:58:21 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 15:58:21 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 15:58:21 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 15:58:21 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 15:58:21 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface...FAIL
+Aug 01 15:58:21 -07:00 Rexos  
+Interface enp4s0 doesn't exist. FAIL
+Aug 01 15:58:21 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 15:58:22 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 15:58:22 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 17:10:09 -07:00 (none)  Mounting virtual file systems: /run OK
+Aug 01 17:10:09 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 17:10:09 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 17:10:09 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 17:10:12 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 17:10:12 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 17:10:13 -07:00 Rexos  Checking file systems... OK
+Aug 01 17:10:13 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 17:10:13 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 17:10:13 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 17:10:13 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 17:10:13 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 17:10:14 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 17:10:14 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 17:10:14 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 17:10:14 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 17:10:14 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 01 17:11:15 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 17:11:15 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 17:11:15 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 17:53:01 -07:00 (none)  Mounting virtual file systems: /run OK
+Aug 01 17:53:01 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 17:53:01 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 17:53:01 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 17:53:04 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 17:53:04 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 17:53:05 -07:00 Rexos  Checking file systems... OK
+Aug 01 17:53:05 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 17:53:05 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 17:53:05 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 17:53:05 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 17:53:05 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 17:53:06 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 17:53:06 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 17:53:06 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 17:53:06 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 17:53:06 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 01 17:54:07 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 17:54:07 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 17:54:07 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 19:02:13 -07:00 (none)  Mounting virtual file systems: /run OK
+Aug 01 19:02:13 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 19:02:13 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 19:02:13 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 19:02:16 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 19:02:16 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 19:02:16 -07:00 Rexos  Checking file systems... OK
+Aug 01 19:02:16 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 19:02:16 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 19:02:16 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 19:02:17 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 19:02:17 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 19:02:18 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 19:02:18 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 19:02:18 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 19:02:18 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 19:02:18 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 01 19:03:20 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 19:03:20 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 19:03:20 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 01 19:11:52 -07:00 (none)  Mounting virtual file systems: /run OK
+Aug 01 19:11:52 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 01 19:11:52 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 01 19:11:52 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 01 19:11:55 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 01 19:11:55 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 01 19:11:55 -07:00 Rexos  Checking file systems... OK
+Aug 01 19:11:56 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 01 19:11:56 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 01 19:11:56 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 01 19:11:56 -07:00 Rexos  Creating files and directories...  OK
+Aug 01 19:11:56 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 01 19:11:57 -07:00 Rexos  Setting up Linux console... OK
+Aug 01 19:11:57 -07:00 Rexos  Starting system log daemon... OK
+Aug 01 19:11:57 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 01 19:11:57 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 01 19:11:57 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 01 19:12:58 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 01 19:12:58 -07:00 Rexos  Mounting network volumes... OK
+Aug 01 19:12:58 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 14:47:03 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 14:47:03 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 14:47:03 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 14:47:03 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 14:47:07 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 14:47:07 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 14:47:07 -07:00 Rexos  Checking file systems... OK
+Aug 03 14:47:07 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 14:47:07 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 14:47:07 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 14:47:08 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 14:47:08 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 14:47:09 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 14:47:09 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 14:47:09 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 14:47:09 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 14:47:09 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 14:48:11 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 14:48:11 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 14:48:11 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 15:17:20 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 15:17:20 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 15:17:20 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 15:17:20 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 15:17:24 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 15:17:24 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 15:17:24 -07:00 Rexos  Checking file systems... OK
+Aug 03 15:17:24 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 15:17:24 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 15:17:24 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 15:17:25 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 15:17:25 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 15:17:26 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 15:17:26 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 15:17:26 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 15:17:26 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 15:17:26 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 15:18:27 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 15:18:27 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 15:18:27 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 15:19:43 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 15:19:43 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 15:19:43 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 15:19:43 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 15:19:46 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 15:19:46 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 15:19:47 -07:00 Rexos  Checking file systems... OK
+Aug 03 15:19:47 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 15:19:47 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 15:19:47 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 15:19:47 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 15:19:47 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 15:19:48 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 15:19:48 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 15:19:48 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 15:19:48 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 15:19:48 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 15:20:49 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 15:20:49 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 15:20:49 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 15:37:56 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 15:37:56 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 15:37:56 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 15:37:56 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 15:37:59 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 15:37:59 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 15:37:59 -07:00 Rexos  Checking file systems... OK
+Aug 03 15:38:00 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 15:38:00 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 15:38:00 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 15:38:00 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 15:38:00 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 15:38:01 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 15:38:01 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 15:38:01 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 15:38:01 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 15:38:01 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 15:39:03 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 15:39:03 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 15:39:03 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 16:48:36 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 16:48:36 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 16:48:36 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 16:48:36 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 16:48:39 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 16:48:39 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 16:48:40 -07:00 Rexos  Checking file systems... OK
+Aug 03 16:48:40 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 16:48:40 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 16:48:40 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 16:48:40 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 16:48:40 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 16:48:41 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 16:48:41 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 16:48:41 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 16:48:41 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 16:48:41 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 16:49:42 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 16:49:42 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 16:49:42 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 17:44:41 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 17:44:41 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 17:44:41 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 17:44:41 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 17:44:44 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 17:44:44 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 17:44:44 -07:00 Rexos  Checking file systems... OK
+Aug 03 17:44:44 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 17:44:45 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 17:44:45 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 17:44:45 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 17:44:45 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 17:44:46 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 17:44:46 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 17:44:46 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 17:44:46 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 17:44:46 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 17:45:48 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 17:45:48 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 17:45:48 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 18:45:18 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 18:45:18 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 18:45:19 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 18:45:19 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 18:45:22 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 18:45:22 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 18:45:22 -07:00 Rexos  Checking file systems... OK
+Aug 03 18:45:22 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 18:45:23 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 18:45:23 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 18:45:23 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 18:45:23 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 18:45:24 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 18:45:24 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 18:45:24 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 18:45:24 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 18:45:24 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 18:46:25 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 18:46:25 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 18:46:25 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 03 19:19:59 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 03 19:19:59 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 03 19:19:59 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 03 19:19:59 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 03 19:20:02 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 03 19:20:02 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 03 19:20:02 -07:00 Rexos  Checking file systems... OK
+Aug 03 19:20:03 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 03 19:20:03 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 03 19:20:03 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 03 19:20:03 -07:00 Rexos  Creating files and directories...  OK
+Aug 03 19:20:03 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 03 19:20:04 -07:00 Rexos  Setting up Linux console... OK
+Aug 03 19:20:04 -07:00 Rexos  Starting system log daemon... OK
+Aug 03 19:20:04 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 03 19:20:04 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 03 19:20:04 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 03 19:21:06 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 03 19:21:06 -07:00 Rexos  Mounting network volumes... OK
+Aug 03 19:21:06 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 13:49:26 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 13:49:26 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 13:49:26 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 13:49:26 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 13:49:29 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 13:49:29 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 13:49:29 -07:00 Rexos  Checking file systems... OK
+Aug 04 13:49:29 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 13:49:30 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 13:49:30 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 13:49:30 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 13:49:30 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 13:49:31 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 13:49:31 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 13:49:31 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 13:49:31 -07:00 Rexos  Bringing up the enp4s0 interface... Aug 04 13:49:31 -07:00 Rexos  
+ Starting dhclient on the enp4s0 interface... OK
+Aug 04 13:50:32 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 13:50:32 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 13:50:32 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 15:36:01 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 15:36:01 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 15:36:01 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 15:36:01 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 15:36:04 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 15:36:04 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 15:36:04 -07:00 Rexos  Checking file systems... OK
+Aug 04 15:36:05 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 15:36:05 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 15:36:05 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 15:36:05 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 15:36:05 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 15:36:06 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 15:36:06 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 15:36:06 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 15:36:06 -07:00 Rexos  Bringing up the enp4s0 interface... skippedAug 04 15:36:06 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 15:36:06 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 15:36:06 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 15:51:32 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 15:51:32 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 15:51:32 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 15:51:32 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 15:51:36 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 15:51:36 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 15:51:36 -07:00 Rexos  Checking file systems... OK
+Aug 04 15:51:36 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 15:51:36 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 15:51:36 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 15:51:37 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 15:51:37 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 15:51:38 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 15:51:38 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 15:51:38 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 15:51:38 -07:00 Rexos  Bringing up the enp4s0 interface... skippedAug 04 15:51:38 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 15:51:38 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 15:51:38 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 16:59:02 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 16:59:02 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 16:59:02 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 16:59:02 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 16:59:05 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 16:59:05 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 16:59:06 -07:00 Rexos  Checking file systems... OK
+Aug 04 16:59:06 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 16:59:06 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 16:59:06 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 16:59:06 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 16:59:06 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 16:59:07 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 16:59:07 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 16:59:07 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 16:59:07 -07:00 Rexos  Bringing up the enp4s0 interface... skippedAug 04 16:59:07 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 16:59:07 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 16:59:07 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 18:09:39 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 18:09:39 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 18:09:39 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 18:09:39 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 18:09:42 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 18:09:42 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 18:09:42 -07:00 Rexos  Checking file systems... OK
+Aug 04 18:09:43 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 18:09:43 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 18:09:43 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 18:09:43 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 18:09:43 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 18:09:44 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 18:09:44 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 18:09:44 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 18:09:44 -07:00 Rexos  Bringing up the enp4s0 interface... skippedAug 04 18:09:44 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 18:09:44 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 18:09:44 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------
+Aug 04 18:27:55 -07:00 (none)  Mounting virtual file systems: /run /proc /sys OK
+Aug 04 18:27:55 -07:00 (none)  Bringing up the loopback interface... OK
+Aug 04 18:27:55 -07:00 (none)  Setting hostname to Rexos... OK
+Aug 04 18:27:55 -07:00 Rexos  Populating /dev with device nodes...  OK
+Aug 04 18:27:58 -07:00 Rexos  Activating all swap files/partitions... OK
+Aug 04 18:27:58 -07:00 Rexos  Mounting root file system in read-only mode...  OK
+Aug 04 18:27:59 -07:00 Rexos  Checking file systems... OK
+Aug 04 18:27:59 -07:00 Rexos  Remounting root file system in read-write mode... OK
+Aug 04 18:27:59 -07:00 Rexos  Mounting remaining file systems... OK
+Aug 04 18:27:59 -07:00 Rexos  Cleaning file systems: /tmp OK
+Aug 04 18:27:59 -07:00 Rexos  Creating files and directories...  OK
+Aug 04 18:27:59 -07:00 Rexos  Retrying failed uevents, if any... OK
+Aug 04 18:28:00 -07:00 Rexos  Setting up Linux console... OK
+Aug 04 18:28:00 -07:00 Rexos  Starting system log daemon... OK
+Aug 04 18:28:00 -07:00 Rexos  Starting kernel log daemon... OK
+Aug 04 18:28:00 -07:00 Rexos  Bringing up the enp4s0 interface... skippedAug 04 18:28:00 -07:00 Rexos  Initializing kernel random number generator... OK
+Aug 04 18:28:00 -07:00 Rexos  Mounting network volumes... OK
+Aug 04 18:28:00 -07:00 Rexos  Starting the D-Bus Messagebus Daemon... OK
+--------

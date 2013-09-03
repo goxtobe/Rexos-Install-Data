@@ -1,0 +1,30 @@
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.67;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.254;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.254;
+  option dhcp-server-identifier 192.168.1.254;
+  option dhcp-renewal-time 60;
+  option domain-name "lan";
+  renew 0 2013/08/04 02:24:00;
+  rebind 0 2013/08/04 02:24:00;
+  expire 0 2013/08/04 02:24:00;
+}
+lease {
+  interface "enp4s0";
+  fixed-address 192.168.1.67;
+  option subnet-mask 255.255.255.0;
+  option routers 192.168.1.254;
+  option dhcp-lease-time 86400;
+  option dhcp-message-type 5;
+  option domain-name-servers 192.168.1.254;
+  option dhcp-server-identifier 192.168.1.254;
+  option dhcp-renewal-time 60;
+  option domain-name "lan";
+  renew 0 2013/08/04 21:36:14;
+  rebind 0 2013/08/04 21:36:14;
+  expire 0 2013/08/04 21:36:14;
+}
