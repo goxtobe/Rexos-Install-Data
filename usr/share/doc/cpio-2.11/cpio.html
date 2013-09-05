@@ -1,0 +1,798 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual documents GNU cpio (version 2.11, 12 February 2010).
+
+Copyright (C) 1995, 2001, 2002, 2004, 2010 Free Software
+Foundation, Inc.
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.2 or
+any later version published by the Free Software Foundation; with no
+Invariant Sections, with the Front-Cover texts being "A GNU Manual",
+and with the Back-Cover Texts as in (a) below.  A copy of the license
+is included in the section entitled "GNU Free Documentation License".
+
+(a) The FSF's Back-Cover Text is: "You have freedom to copy and modify
+this GNU Manual, like GNU software.  Copies published by the Free
+Software Foundation raise funds for GNU development." -->
+<!-- Created by GNU Texinfo 5.1, http://www.gnu.org/software/texinfo/ -->
+<head>
+<title>cpio</title>
+
+<meta name="description" content="cpio">
+<meta name="keywords" content="cpio">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="makeinfo">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="#Top" rel="start" title="Top">
+<link href="#Concept-Index" rel="index" title="Concept Index">
+<link href="#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="dir.html#Top" rel="up" title="(dir)">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.smallquotation {font-size: smaller}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.indentedblock {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+div.smalldisplay {margin-left: 3.2em}
+div.smallexample {margin-left: 3.2em}
+div.smallindentedblock {margin-left: 3.2em; font-size: smaller}
+div.smalllisp {margin-left: 3.2em}
+kbd {font-style:oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+pre.smalldisplay {font-family: inherit; font-size: smaller}
+pre.smallexample {font-size: smaller}
+pre.smallformat {font-family: inherit; font-size: smaller}
+pre.smalllisp {font-size: smaller}
+span.nocodebreak {white-space:nowrap}
+span.nolinebreak {white-space:nowrap}
+span.roman {font-family:serif; font-weight:normal}
+span.sansserif {font-family:sans-serif; font-weight:normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en" bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
+<h1 class="settitle" align="center">cpio</h1>
+
+
+
+
+
+<a name="Top"></a>
+<div class="header">
+<p>
+Next: <a href="#Introduction" accesskey="n" rel="next">Introduction</a>, Previous: <a href="dir.html#Top" accesskey="p" rel="previous">(dir)</a>, Up: <a href="dir.html#Top" accesskey="u" rel="up">(dir)</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<h1 class="node-heading">Top</h1>
+
+
+<table class="menu" border="0" cellspacing="0">
+<tr><td align="left" valign="top">&bull; <a href="#Introduction" accesskey="1">Introduction</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Tutorial" accesskey="2">Tutorial</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">Getting started.
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Invoking-cpio" accesskey="3">Invoking cpio</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">How to invoke <code>cpio</code>.
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Media" accesskey="4">Media</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">Using tapes and other archive media.
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Reports" accesskey="5">Reports</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">Reporting bugs or suggestions
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Concept-Index" accesskey="6">Concept Index</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">Concept index.
+</td></tr>
+<tr><th colspan="3" align="left" valign="top"><pre class="menu-comment">
+</pre></th></tr><tr><th colspan="3" align="left" valign="top"><pre class="menu-comment"> &mdash; The Detailed Node Listing &mdash;
+
+Invoking cpio
+
+</pre></th></tr><tr><td align="left" valign="top">&bull; <a href="#Copy_002dout-mode" accesskey="7">Copy-out mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Copy_002din-mode" accesskey="8">Copy-in mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Copy_002dpass-mode" accesskey="9">Copy-pass mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Options">Options</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><th colspan="3" align="left" valign="top"><pre class="menu-comment">
+</pre></th></tr></table>
+
+<hr>
+<a name="Introduction"></a>
+<div class="header">
+<p>
+Next: <a href="#Tutorial" accesskey="n" rel="next">Tutorial</a>, Previous: <a href="#Top" accesskey="p" rel="previous">Top</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Introduction-1"></a>
+<h2 class="chapter">1 Introduction</h2>
+
+<p>GNU cpio copies files into or out of a cpio or tar archive, The archive
+can be another file on the disk, a magnetic tape, or a pipe.
+</p>
+<p>GNU cpio supports the following archive formats: binary, old ASCII, new
+ASCII, crc, HPUX binary, HPUX old ASCII, old tar, and POSIX.1 tar.  The
+tar format is provided for compatibility with the tar program. By
+default, cpio creates binary format archives, for compatibility with
+older cpio programs.  When extracting from archives, cpio automatically
+recognizes which kind of archive it is reading and can read archives
+created on machines with a different byte-order.
+</p>
+<hr>
+<a name="Tutorial"></a>
+<div class="header">
+<p>
+Next: <a href="#Invoking-cpio" accesskey="n" rel="next">Invoking cpio</a>, Previous: <a href="#Introduction" accesskey="p" rel="previous">Introduction</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Tutorial-1"></a>
+<h2 class="chapter">2 Tutorial</h2>
+<a name="index-creating-a-cpio-archive"></a>
+<a name="index-extracting-a-cpio-archive"></a>
+<a name="index-copying-directory-structures"></a>
+<a name="index-passing-directory-structures"></a>
+
+
+<p>GNU cpio performs three primary functions.  Copying files to an
+archive, Extracting files from an archive, and passing files to another
+directory tree.  An archive can be a file on disk, one or more floppy
+disks, or one or more tapes.
+</p>
+<p>When creating an archive, cpio takes the list of files to be processed
+from the standard input, and then sends the archive to the standard
+output, or to the device defined by the <samp>-F</samp> option.
+See <a href="#Copy_002dout-mode">Copy-out mode</a>.  Usually find or ls is used to provide this list
+to the standard input.  In the following example you can see the
+possibilities for archiving the contents of a single directory.
+</p>
+
+<div class="example">
+<table class="cartouche" border="1"><tr><td>
+<pre class="example">% ls | cpio -ov &gt; directory.cpio
+</pre></td></tr></table>
+</div>
+
+<p>The <samp>-o</samp> option creates the archive, and the <samp>-v</samp> option
+prints the names of the files archived as they are added.  Notice that
+the options can be put together after a single <samp>-</samp> or can be placed
+separately on the command line.  The &lsquo;<samp>&gt;</samp>&rsquo; redirects the cpio output
+to the file &lsquo;<samp>directory.cpio</samp>&rsquo;.
+</p>
+
+<p>If you wanted to archive an entire directory tree, the find command can
+provide the file list to cpio:
+</p>
+
+<div class="example">
+<table class="cartouche" border="1"><tr><td>
+<pre class="example">% find . -print -depth | cpio -ov &gt; tree.cpio
+</pre></td></tr></table>
+</div>
+
+
+<p>This will take all the files in the current directory, the directories
+below and place them in the archive tree.cpio.  Again the <samp>-o</samp>
+creates an archive, and the <samp>-v</samp> option shows you the name of the
+files as they are archived.  See <a href="#Copy_002dout-mode">Copy-out mode</a>.  Using the &lsquo;<samp>.</samp>&rsquo; in the
+find statement will give you more flexibility when doing restores, as it
+will save file names with a relative path vice a hard wired, absolute
+path.  The <samp>-depth</samp> option forces &lsquo;<samp>find</samp>&rsquo; to print of the
+entries in a directory before printing the directory itself.  This
+limits the effects of restrictive directory permissions by printing the
+directory entries in a directory before the directory name itself.
+</p>
+
+
+
+<p>Extracting an archive requires a bit more thought because cpio will not
+create directories by default.  Another characteristic, is it will not
+overwrite existing files unless you tell it to.
+</p>
+
+<div class="example">
+<table class="cartouche" border="1"><tr><td>
+<pre class="example">% cpio -iv &lt; directory.cpio
+</pre></td></tr></table>
+</div>
+
+<p>This will retrieve the files archived in the file directory.cpio and
+place them in the present directory.  The <samp>-i</samp> option extracts the
+archive and the <samp>-v</samp> shows the file names as they are extracted.
+If you are dealing with an archived directory tree, you need to use the
+<samp>-d</samp> option to create directories as necessary, something like:
+</p>
+<div class="example">
+<table class="cartouche" border="1"><tr><td>
+<pre class="example">% cpio -idv &lt; tree.cpio
+</pre></td></tr></table>
+</div>
+
+<p>This will take the contents of the archive tree.cpio and extract it to
+the current directory.  If you try to extract the files on top of files
+of the same name that already exist (and have the same or later
+modification time) cpio will not extract the file unless told to do so
+by the -u option.  See <a href="#Copy_002din-mode">Copy-in mode</a>.
+</p>
+
+<p>In copy-pass mode, cpio copies files from one directory tree to another,
+combining the copy-out and copy-in steps without actually using an
+archive.  It reads the list of files to copy from the standard input;
+the directory into which it will copy them is given as a non-option
+argument.  See <a href="#Copy_002dpass-mode">Copy-pass mode</a>.
+</p>
+<div class="example">
+<table class="cartouche" border="1"><tr><td>
+<pre class="example">% find . -depth -print0 | cpio --null -pvd new-dir
+</pre></td></tr></table>
+</div>
+
+
+<p>The example shows copying the files of the present directory, and
+sub-directories to a new directory called new-dir.  Some new options are
+the <samp>-print0</samp> available with GNU find, combined with the
+<samp>--null</samp> option of cpio.  These two options act together to send
+file names between find and cpio, even if special characters are
+embedded in the file names.  Another is <samp>-p</samp>, which tells cpio to
+pass the files it finds to the directory &lsquo;<samp>new-dir</samp>&rsquo;.
+</p>
+<hr>
+<a name="Invoking-cpio"></a>
+<div class="header">
+<p>
+Next: <a href="#Media" accesskey="n" rel="next">Media</a>, Previous: <a href="#Tutorial" accesskey="p" rel="previous">Tutorial</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Invoking-cpio-1"></a>
+<h2 class="chapter">3 Invoking cpio</h2>
+<a name="index-invoking-cpio"></a>
+<a name="index-command-line-options"></a>
+
+<table class="menu" border="0" cellspacing="0">
+<tr><td align="left" valign="top">&bull; <a href="#Copy_002dout-mode" accesskey="1">Copy-out mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Copy_002din-mode" accesskey="2">Copy-in mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Copy_002dpass-mode" accesskey="3">Copy-pass mode</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+<tr><td align="left" valign="top">&bull; <a href="#Options" accesskey="4">Options</a>:</td><td>&nbsp;&nbsp;</td><td align="left" valign="top">
+</td></tr>
+</table>
+
+<hr>
+<a name="Copy_002dout-mode"></a>
+<div class="header">
+<p>
+Next: <a href="#Copy_002din-mode" accesskey="n" rel="next">Copy-in mode</a>, Previous: <a href="#Invoking-cpio" accesskey="p" rel="previous">Invoking cpio</a>, Up: <a href="#Invoking-cpio" accesskey="u" rel="up">Invoking cpio</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Copy_002dout-mode-1"></a>
+<h3 class="section">3.1 Copy-out mode</h3>
+
+<p>In copy-out mode, cpio copies files into an archive.  It reads a list
+of filenames, one per line, on the standard input, and writes the
+archive onto the standard output.  A typical way to generate the list
+of filenames is with the find command; you should give find the -depth
+option to minimize problems with permissions on directories that are
+unreadable.
+See <a href="#Options">Options</a>.
+</p>
+<div class="example">
+<pre class="example">cpio {-o|--create} [-0acvABLV] [-C bytes] [-H format]
+[-M message] [-O [[user@]host:]archive] [-F [[user@]host:]archive]
+[--file=[[user@]host:]archive] [--format=format]
+[--message=message] [--null] [--reset-access-time] [--verbose]
+[--dot] [--append] [--block-size=blocks] [--dereference]
+[--io-size=bytes] [--rsh-command=command] [--help] [--version]
+&lt; name-list [&gt; archive]
+</pre></div>
+
+<hr>
+<a name="Copy_002din-mode"></a>
+<div class="header">
+<p>
+Next: <a href="#Copy_002dpass-mode" accesskey="n" rel="next">Copy-pass mode</a>, Previous: <a href="#Copy_002dout-mode" accesskey="p" rel="previous">Copy-out mode</a>, Up: <a href="#Invoking-cpio" accesskey="u" rel="up">Invoking cpio</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Copy_002din-mode-1"></a>
+<h3 class="section">3.2 Copy-in mode</h3>
+
+<p>In copy-in mode, cpio copies files out of an archive or lists the
+archive contents.  It reads the archive from the standard input.  Any
+non-option command line arguments are shell globbing patterns; only
+files in the archive whose names match one or more of those patterns are
+copied from the archive.  Unlike in the shell, an initial &lsquo;<samp>.</samp>&rsquo; in a
+filename does match a wildcard at the start of a pattern, and a &lsquo;<samp>/</samp>&rsquo; in a
+filename can match wildcards.  If no patterns are given, all files are
+extracted.  See <a href="#Options">Options</a>.
+</p>
+<div class="example">
+<pre class="example">cpio {-i|--extract} [-bcdfmnrtsuvBSV] [-C bytes] [-E file]
+[-H format] [-M message] [-R [user][:.][group]]
+[-I [[user@]host:]archive] [-F [[user@]host:]archive]
+[--file=[[user@]host:]archive] [--make-directories]
+[--nonmatching] [--preserve-modification-time]
+[--numeric-uid-gid] [--rename] [--list] [--swap-bytes] [--swap]
+[--dot] [--unconditional] [--verbose] [--block-size=blocks]
+[--swap-halfwords] [--io-size=bytes] [--pattern-file=file]
+[--format=format] [--owner=[user][:.][group]]
+[--no-preserve-owner] [--message=message] [--help] [--version]
+[--no-absolute-filenames] [--sparse] [-only-verify-crc] [--to-stdout]
+[-quiet] [--rsh-command=command] [pattern...] [&lt; archive]
+</pre></div>
+
+<hr>
+<a name="Copy_002dpass-mode"></a>
+<div class="header">
+<p>
+Next: <a href="#Options" accesskey="n" rel="next">Options</a>, Previous: <a href="#Copy_002din-mode" accesskey="p" rel="previous">Copy-in mode</a>, Up: <a href="#Invoking-cpio" accesskey="u" rel="up">Invoking cpio</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Copy_002dpass-mode-1"></a>
+<h3 class="section">3.3 Copy-pass mode</h3>
+
+<p>In copy-pass mode, cpio copies files from one directory tree to
+another, combining the copy-out and copy-in steps without actually
+using an archive.  It reads the list of files to copy from the
+standard input; the directory into which it will copy them is given as
+a non-option argument.
+See <a href="#Options">Options</a>.
+</p>
+<div class="example">
+<pre class="example">cpio {-p|--pass-through} [-0adlmuvLV] [-R [user][:.][group]]
+[--null] [--reset-access-time] [--make-directories] [--link]
+[--preserve-modification-time] [--unconditional] [--verbose]
+[--dot] [--dereference] [--owner=[user][:.][group]] [--sparse]
+[--no-preserve-owner] [--help] [--version] destination-directory
+&lt; name-list
+</pre></div>
+
+
+
+<hr>
+<a name="Options"></a>
+<div class="header">
+<p>
+Previous: <a href="#Copy_002dpass-mode" accesskey="p" rel="previous">Copy-pass mode</a>, Up: <a href="#Invoking-cpio" accesskey="u" rel="up">Invoking cpio</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Options-1"></a>
+<h3 class="section">3.4 Options</h3>
+
+
+<dl compact="compact">
+<dt><code>-0</code></dt>
+<dt><code>--null</code></dt>
+<dd><p>Read a list of filenames terminated by a null character, instead of a
+newline, so that files whose names contain newlines can be archived.
+GNU find is one way to produce a list of null-terminated filenames.
+This option may be used in copy-out and copy-pass modes.
+</p>
+</dd>
+<dt><code>-a</code></dt>
+<dt><code>--reset-access-time</code></dt>
+<dd><p>Reset the access times of files after reading them, so
+that it does not look like they have just been read.
+</p>
+</dd>
+<dt><code>-A</code></dt>
+<dt><code>--append</code></dt>
+<dd><p>Append to an existing archive.  Only works in copy-out
+mode.  The archive must be a disk file specified with
+the <samp>-O</samp> or <samp>-F</samp> (<samp>--file</samp>) option.
+</p>
+</dd>
+<dt><code>-b</code></dt>
+<dt><code>--swap</code></dt>
+<dd><p>Swap both halfwords of words and bytes of halfwords in the data.
+Equivalent to -sS.  This option may be used in copy-in mode.  Use this
+option to convert 32-bit integers between big-endian and little-endian
+machines.
+</p>
+</dd>
+<dt><code>-B</code></dt>
+<dd><p>Set the I/O block size to 5120 bytes.  Initially the
+block size is 512 bytes.
+</p>
+</dd>
+<dt><code>--block-size=<var>block-size</var></code></dt>
+<dd><p>Set the I/O block size to <var>block-size</var> * 512 bytes.
+</p>
+</dd>
+<dt><code>-c</code></dt>
+<dd><p>Use the old portable (ASCII) archive format.
+</p>
+</dd>
+<dt><code>-C <var>io-size</var></code></dt>
+<dt><code>--io-size=<var>io-size</var></code></dt>
+<dd><p>Set the I/O block size to <var>io-size</var> bytes.
+</p>
+</dd>
+<dt><code>-d</code></dt>
+<dt><code>--make-directories</code></dt>
+<dd><p>Create leading directories where needed.
+</p>
+</dd>
+<dt><code>-E <var>file</var></code></dt>
+<dt><code>--pattern-file=<var>file</var></code></dt>
+<dd><p>Read additional patterns specifying filenames to extract or list from
+<var>file</var>.  The lines of <var>file</var> are treated as if they had been non-option
+arguments to cpio.  This option is used in copy-in mode,
+</p>
+</dd>
+<dt><code>-f</code></dt>
+<dt><code>--nonmatching</code></dt>
+<dd><p>Only copy files that do not match any of the given
+patterns.
+</p>
+</dd>
+<dt><code>-F <var>archive</var></code></dt>
+<dt><code>--file=<var>archive</var></code></dt>
+<dd><p>Archive filename to use instead of standard input or output.  To use a
+tape drive on another machine as the archive, use a filename that starts
+with &lsquo;<samp><var>hostname</var>:</samp>&rsquo;, where <var>hostname</var> is the name or IP
+address of the machine.  The hostname can be preceded by a username and an
+&lsquo;<samp>@</samp>&rsquo; to access the remote tape drive as that user, if you have
+permission to do so (typically an entry in that user&rsquo;s <samp>~/.rhosts</samp>
+file).
+</p>
+</dd>
+<dt><code>--force-local</code></dt>
+<dd><p>With <samp>-F</samp>, <samp>-I</samp>, or <samp>-O</samp>, take the archive file name to be a
+local file even if it contains a colon, which would
+ordinarily indicate a remote host name.
+</p>
+</dd>
+<dt><code>-H <var>format</var></code></dt>
+<dt><code>--format=<var>format</var></code></dt>
+<dd><p>Use archive format <var>format</var>.  The valid formats are listed below
+with file size limits for individual files in parentheses; the same
+names are also recognized in all-caps.  The default in copy-in mode is
+to automatically detect the archive format, and in copy-out mode is
+&lsquo;<samp>bin</samp>&rsquo;.
+</p>
+<dl compact="compact">
+<dt>&lsquo;<samp>bin</samp>&rsquo;</dt>
+<dd><p>The obsolete binary format. (2147483647 bytes)
+</p>
+</dd>
+<dt>&lsquo;<samp>odc</samp>&rsquo;</dt>
+<dd><p>The old (POSIX.1) portable format. (8589934591 bytes)
+</p>
+</dd>
+<dt>&lsquo;<samp>newc</samp>&rsquo;</dt>
+<dd><p>The new (SVR4) portable format, which supports file systems having more
+than 65536 i-nodes. (4294967295 bytes)
+</p>
+</dd>
+<dt>&lsquo;<samp>crc</samp>&rsquo;</dt>
+<dd><p>The new (SVR4) portable format with a checksum added.
+</p>
+</dd>
+<dt>&lsquo;<samp>tar</samp>&rsquo;</dt>
+<dd><p>The old tar format. (8589934591 bytes)
+</p>
+</dd>
+<dt>&lsquo;<samp>ustar</samp>&rsquo;</dt>
+<dd><p>The POSIX.1 tar format.  Also recognizes GNU tar archives, which are
+similar but not identical. (8589934591 bytes)
+</p>
+</dd>
+<dt>&lsquo;<samp>hpbin</samp>&rsquo;</dt>
+<dd><p>The obsolete binary format used by HPUX&rsquo;s cpio (which stores device
+files differently).
+</p>
+</dd>
+<dt>&lsquo;<samp>hpodc</samp>&rsquo;</dt>
+<dd><p>The portable format used by HPUX&rsquo;s cpio (which stores device files
+differently).
+</p></dd>
+</dl>
+
+</dd>
+<dt><code>-i</code></dt>
+<dt><code>--extract</code></dt>
+<dd><p>Run in copy-in mode.
+See <a href="#Copy_002din-mode">Copy-in mode</a>.
+</p>
+</dd>
+<dt><code>-I <var>archive</var></code></dt>
+<dd><p>Archive filename to use instead of standard input.  To use a tape drive
+on another machine as the archive, use a filename that starts with
+&lsquo;<samp><var>hostname</var>:</samp>&rsquo;, where <var>hostname</var> is the name or IP address
+of the remote host.  The hostname can be preceded by a username and an &lsquo;<samp>@</samp>&rsquo; to
+access the remote tape drive as that user, if you have permission to do
+so (typically an entry in that user&rsquo;s <samp>~/.rhosts</samp> file).
+</p>
+</dd>
+<dt><code>-k</code></dt>
+<dd><p>Ignored; for compatibility with other versions of cpio.
+</p>
+</dd>
+<dt><code>-l</code></dt>
+<dt><code>--link</code></dt>
+<dd><p>Link files instead of copying them, when possible.
+</p>
+</dd>
+<dt><code>-L</code></dt>
+<dt><code>--dereference</code></dt>
+<dd><p>Copy the file that a symbolic link points to, rather than the symbolic
+link itself.
+</p>
+</dd>
+<dt><code>-m</code></dt>
+<dt><code>--preserve-modification-time</code></dt>
+<dd><p>Retain previous file modification times when creating files.
+</p>
+</dd>
+<dt><code>-M <var>message</var></code></dt>
+<dt><code>--message=<var>message</var></code></dt>
+<dd><p>Print <var>message</var> when the end of a volume of the backup media (such as a
+tape or a floppy disk) is reached, to prompt the user to insert a new
+volume.  If <var>message</var> contains the string &lsquo;<samp>%d</samp>&rsquo;, it is replaced by the
+current volume number (starting at 1).
+</p>
+</dd>
+<dt><code>-n</code></dt>
+<dt><code>--numeric-uid-gid</code></dt>
+<dd><p>Show numeric UID and GID instead of translating them into names when using the
+<samp>--verbose</samp> option.
+</p>
+</dd>
+<dt><code>--no-absolute-filenames</code></dt>
+<dd><p>Create all files relative to the current directory in copy-in mode, even
+if they have an absolute file name in the archive.
+</p>
+</dd>
+<dt><code>--no-preserve-owner</code></dt>
+<dd><p>Do not change the ownership of the files; leave them owned by the user
+extracting them.  This is the default for non-root users, so that users
+on System V don&rsquo;t inadvertantly give away files.  This option can be
+used in copy-in mode and copy-pass mode
+</p>
+</dd>
+<dt><code>-o</code></dt>
+<dt><code>--create</code></dt>
+<dd><p>Run in copy-out mode.
+See <a href="#Copy_002dout-mode">Copy-out mode</a>.
+</p>
+</dd>
+<dt><code>-O <var>archive</var></code></dt>
+<dd><p>Archive filename to use instead of standard output.  To use a tape drive
+on another machine as the archive, use a filename that starts with
+&lsquo;<samp><var>hostname</var>:</samp>&rsquo;, where <var>hostname</var> is the name or IP address
+of the machine.  The hostname can be preceded by a username and an &lsquo;<samp>@</samp>&rsquo; to
+access the remote tape drive as that user, if you have permission to do
+so (typically an entry in that user&rsquo;s <samp>~/.rhosts</samp> file).
+</p>
+</dd>
+<dt><code>--only-verify-crc</code></dt>
+<dd><p>Verify the CRC&rsquo;s of each file in the archive, when reading a CRC format
+archive. Don&rsquo;t actually extract the files.
+</p>
+</dd>
+<dt><code>-p</code></dt>
+<dt><code>--pass-through</code></dt>
+<dd><p>Run in copy-pass mode.
+See <a href="#Copy_002dpass-mode">Copy-pass mode</a>.
+</p>
+</dd>
+<dt><code>--quiet</code></dt>
+<dd><p>Do not print the number of blocks copied.
+</p>
+</dd>
+<dt><code>-r</code></dt>
+<dt><code>--rename</code></dt>
+<dd><p>Interactively rename files.
+</p>
+</dd>
+<dt><code>-R <var>owner</var></code></dt>
+<dt><code>--owner <var>owner</var></code></dt>
+<dd>
+<p>In copy-in and copy-pass mode, set the ownership of all files created
+to the specified <var>owner</var> (this operation is allowed only for the
+super-user). In copy-out mode, store the supplied owner information in
+the archive. 
+</p>
+<p>The argument can be either the user name or the user name
+and group name, separated by a dot or a colon, or the group name,
+preceeded by a dot or a colon, as shown in the examples below:
+</p>
+<div class="smallexample">
+<pre class="smallexample">cpio --owner smith
+cpio --owner smith:
+cpio --owner smith:users
+cpio --owner :users
+</pre></div>
+
+<p>If the group is omitted but the &lsquo;<samp>:</samp>&rsquo; or &lsquo;<samp>.</samp>&rsquo; separator is
+given, as in the second example. the given user&rsquo;s login group will be
+used.  
+</p>
+</dd>
+<dt><code>--rsh-command=<var>command</var></code></dt>
+<dd><p>Notifies cpio that is should use <var>command</var> to communicate with remote
+devices.
+</p>
+</dd>
+<dt><code>-s</code></dt>
+<dt><code>--swap-bytes</code></dt>
+<dd><p>Swap the bytes of each halfword (pair of bytes) in the files. This option
+can be used in copy-in mode.
+</p>
+</dd>
+<dt><code>-S</code></dt>
+<dt><code>--swap-halfwords</code></dt>
+<dd><p>Swap the halfwords of each word (4 bytes) in the files.  This option may
+be used in copy-in mode.
+</p>
+</dd>
+<dt><code>--sparse</code></dt>
+<dd><p>Write files with large blocks of zeros as sparse files.  This option is
+used in copy-in and copy-pass modes.
+</p>
+</dd>
+<dt><code>-t</code></dt>
+<dt><code>--list</code></dt>
+<dd><p>Print a table of contents of the input.
+</p>
+</dd>
+<dt><code>--to-stdout</code></dt>
+<dd><p>Extract files to standard output.  This option may be used in copy-in mode.
+</p>
+</dd>
+<dt><code>-u</code></dt>
+<dt><code>--unconditional</code></dt>
+<dd><p>Replace all files, without asking whether to replace
+existing newer files with older files.
+</p>
+</dd>
+<dt><code>-v</code></dt>
+<dt><code>--verbose</code></dt>
+<dd><p>List the files processed, or with <samp>-t</samp>, give an &lsquo;<samp>ls -l</samp>&rsquo; style
+table of contents listing.  In a verbose table of contents of a ustar
+archive, user and group names in the archive that do not exist on the
+local system are replaced by the names that correspond locally to the
+numeric UID and GID stored in the archive.
+</p>
+</dd>
+<dt><code>-V</code></dt>
+<dt><code>--dot</code></dt>
+<dd><p>Print a &lsquo;<samp>.</samp>&rsquo; for each file processed.
+</p>
+</dd>
+<dt><code>--version</code></dt>
+<dd><p>Print the cpio program version number and exit.
+</p></dd>
+</dl>
+
+
+<hr>
+<a name="Media"></a>
+<div class="header">
+<p>
+Next: <a href="#Reports" accesskey="n" rel="next">Reports</a>, Previous: <a href="#Invoking-cpio" accesskey="p" rel="previous">Invoking cpio</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Magnetic-Media"></a>
+<h2 class="chapter">4 Magnetic Media</h2>
+<a name="index-magnetic-media"></a>
+
+<p>Archives are usually written on removable media&ndash;tape cartridges, mag
+tapes, or floppy disks.
+</p>
+<p>The amount of data a tape or disk holds depends not only on its size,
+but also on how it is formatted.  A 2400 foot long reel of mag tape
+holds 40 megabytes of data when formated at 1600 bits per inch.  The
+physically smaller EXABYTE tape cartridge holds 2.3 gigabytes.
+</p>
+<p>Magnetic media are re-usable&ndash;once the archive on a tape is no longer
+needed, the archive can be erased and the tape or disk used over. Media
+quality does deteriorate with use, however.  Most tapes or disks should
+be disgarded when they begin to produce data errors.
+</p>
+<p>Magnetic media are written and erased using magnetic fields, and should
+be protected from such fields to avoid damage to stored data.  Sticking
+a floppy disk to a filing cabinet using a magnet is probably not a good
+idea.
+</p>
+<hr>
+<a name="Reports"></a>
+<div class="header">
+<p>
+Next: <a href="#Concept-Index" accesskey="n" rel="next">Concept Index</a>, Previous: <a href="#Media" accesskey="p" rel="previous">Media</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Reporting-bugs-or-suggestions"></a>
+<h2 class="chapter">5 Reporting bugs or suggestions</h2>
+
+<p>It is possible you will encounter a bug in <code>cpio</code>.
+If this happens, we would like to hear about it. As the purpose of bug
+reporting is to improve software, please be sure to include maximum
+information when reporting a bug. The information needed is:
+</p>
+<ul>
+<li> Version of the package you are using.
+</li><li> Compilation options used when configuring the package.
+</li><li> Conditions under which the bug appears.
+</li></ul>
+
+<p>Send your report to &lt;bug-cpio@gnu.org&gt;. Allow us a couple of
+days to answer.
+</p>
+<hr>
+<a name="Concept-Index"></a>
+<div class="header">
+<p>
+Previous: <a href="#Reports" accesskey="p" rel="previous">Reports</a>, Up: <a href="#Top" accesskey="u" rel="up">Top</a> &nbsp; [<a href="#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="#Concept-Index" title="Index" rel="index">Index</a>]</p>
+</div>
+<a name="Concept-Index-1"></a>
+<h2 class="unnumbered">Concept Index</h2>
+<table><tr><th valign="top">Jump to: &nbsp; </th><td><a class="summary-letter" href="#Concept-Index_cp_letter-C"><b>C</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-E"><b>E</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-I"><b>I</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-M"><b>M</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-P"><b>P</b></a>
+ &nbsp; 
+</td></tr></table>
+<table class="index-cp" border="0">
+<tr><td></td><th align="left">Index Entry</th><td>&nbsp;</td><th align="left"> Section</th></tr>
+<tr><td colspan="4"> <hr></td></tr>
+<tr><th><a name="Concept-Index_cp_letter-C">C</a></th><td></td><td></td></tr>
+<tr><td></td><td valign="top"><a href="#index-command-line-options">command line options</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Invoking-cpio">Invoking cpio</a></td></tr>
+<tr><td></td><td valign="top"><a href="#index-copying-directory-structures">copying directory structures</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Tutorial">Tutorial</a></td></tr>
+<tr><td></td><td valign="top"><a href="#index-creating-a-cpio-archive">creating a cpio archive</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Tutorial">Tutorial</a></td></tr>
+<tr><td colspan="4"> <hr></td></tr>
+<tr><th><a name="Concept-Index_cp_letter-E">E</a></th><td></td><td></td></tr>
+<tr><td></td><td valign="top"><a href="#index-extracting-a-cpio-archive">extracting a cpio archive</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Tutorial">Tutorial</a></td></tr>
+<tr><td colspan="4"> <hr></td></tr>
+<tr><th><a name="Concept-Index_cp_letter-I">I</a></th><td></td><td></td></tr>
+<tr><td></td><td valign="top"><a href="#index-invoking-cpio">invoking cpio</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Invoking-cpio">Invoking cpio</a></td></tr>
+<tr><td colspan="4"> <hr></td></tr>
+<tr><th><a name="Concept-Index_cp_letter-M">M</a></th><td></td><td></td></tr>
+<tr><td></td><td valign="top"><a href="#index-magnetic-media">magnetic media</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Media">Media</a></td></tr>
+<tr><td colspan="4"> <hr></td></tr>
+<tr><th><a name="Concept-Index_cp_letter-P">P</a></th><td></td><td></td></tr>
+<tr><td></td><td valign="top"><a href="#index-passing-directory-structures">passing directory structures</a>:</td><td>&nbsp;</td><td valign="top"><a href="#Tutorial">Tutorial</a></td></tr>
+<tr><td colspan="4"> <hr></td></tr>
+</table>
+<table><tr><th valign="top">Jump to: &nbsp; </th><td><a class="summary-letter" href="#Concept-Index_cp_letter-C"><b>C</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-E"><b>E</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-I"><b>I</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-M"><b>M</b></a>
+ &nbsp; 
+<a class="summary-letter" href="#Concept-Index_cp_letter-P"><b>P</b></a>
+ &nbsp; 
+</td></tr></table>
+<a name="SEC_Contents"></a>
+<h2 class="contents-heading">Table of Contents</h2>
+
+<div class="contents">
+<ul class="no-bullet">
+<li><a name="toc-Introduction-1" href="#Introduction">1 Introduction</a></li>
+<li><a name="toc-Tutorial-1" href="#Tutorial">2 Tutorial</a></li>
+<li><a name="toc-Invoking-cpio-1" href="#Invoking-cpio">3 Invoking cpio</a>
+<ul class="no-bullet">
+  <li><a name="toc-Copy_002dout-mode-1" href="#Copy_002dout-mode">3.1 Copy-out mode</a></li>
+  <li><a name="toc-Copy_002din-mode-1" href="#Copy_002din-mode">3.2 Copy-in mode</a></li>
+  <li><a name="toc-Copy_002dpass-mode-1" href="#Copy_002dpass-mode">3.3 Copy-pass mode</a></li>
+  <li><a name="toc-Options-1" href="#Options">3.4 Options</a></li>
+</ul></li>
+<li><a name="toc-Magnetic-Media" href="#Media">4 Magnetic Media</a></li>
+<li><a name="toc-Reporting-bugs-or-suggestions" href="#Reports">5 Reporting bugs or suggestions</a></li>
+<li><a name="toc-Concept-Index-1" href="#Concept-Index">Concept Index</a></li>
+
+</ul>
+</div>
+
+<hr>
+
+
+
+</body>
+</html>

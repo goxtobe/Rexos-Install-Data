@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: vg
+Description: Mesa OpenVG 1.0 library
+Requires.private:
+Version: 9.1.4
+Libs: -L${libdir} -lOpenVG
+Libs.private: -lm  -lpthread -ldl
+Cflags: -I${includedir}

@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+moduledir=${exec_prefix}/lib/xorg/modules
+sdkdir=/usr/include/xorg
+GLAMOR_GL_CFLAGS=-I/usr/local/include -I/usr/include/libdrm  -DGLAMOR_GL
+GLAMOR_EGL_CFLAGS=-I/usr/local/include -I/usr/include/libdrm  -lEGL 
+
+Name: glamor-egl
+Description: X.Org glamor common library.
+Version: 0.5.0
+Cflags: -I${sdkdir} -L${moduledir} ${GLAMOR_GL_CFLAGS} ${GLAMOR_EGL_CFLAGS}
+
